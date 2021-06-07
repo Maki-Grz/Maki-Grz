@@ -19,4 +19,4 @@
 - Discord: MAKI#0001
 
 ![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&exclude_repo=maki-grz,SushiWebService)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&exclude_repo=maki-grz,SushiWebService,detect-face)](https://github.com/anuraghazra/github-readme-stats)
