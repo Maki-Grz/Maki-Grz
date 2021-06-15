@@ -5,7 +5,7 @@
 >
 >* Creation of a supervised learning model with **TensorFlow.Js**
 >
->>* Creating a webcam with a pre-trained machine learning model with **TensorFlow.js**
+>>* Creating a [webcam](https://github.com/maki-grz/webcam-tensorflow) with a pre-trained machine learning model with **TensorFlow.js**
 >
 >* Creation of a webapp with the framework **Electron.js** and **Vue.js**
 >
