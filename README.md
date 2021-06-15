@@ -3,7 +3,7 @@
 
 >>* A Discord bot: **[Sushi](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot)**
 >
->* Creation of a supervised learning model with **TensorFlow.Js**
+>* Creation of a [supervised learning model](https://github.com/maki-grz/prediction-tensorflow) with **TensorFlow.Js**
 >
 >>* Creating a [webcam](https://github.com/maki-grz/webcam-tensorflow) with a pre-trained machine learning model with **TensorFlow.js**
 >
