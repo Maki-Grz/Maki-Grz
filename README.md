@@ -1,6 +1,8 @@
 # <div align="center">Maki-Grz</div>
 <br/>*`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS.`*
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
+
 >>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot)
 >
 >* [Creation of a supervised learning model with **TensorFlow.Js** (by Google)](https://github.com/maki-grz/prediction-tensorflow)
@@ -24,3 +26,15 @@
 
 ![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## <div align="center">My Skills</div>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="40" width="40"/>
+  </p>
