@@ -1,11 +1,11 @@
 # <div align="center">Maki-Grz</div>
-<br/>*`Determined JavaScript developer with several concrete projects.`*
+<br/>*`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS.`*
 
 >>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot)
 >
->* [Creation of a supervised learning model with **TensorFlow.Js**](https://github.com/maki-grz/prediction-tensorflow)
+>* [Creation of a supervised learning model with **TensorFlow.Js**](https://github.com/maki-grz/prediction-tensorflow)(by Google)
 >
->>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js**](https://github.com/maki-grz/webcam-tensorflow)
+>>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js**](https://github.com/maki-grz/webcam-tensorflow)(by Google)
 >
 >* Creation of a webapp with the framework **Electron.js** and **Vue.js**
 >
