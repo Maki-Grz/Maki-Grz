@@ -17,20 +17,10 @@
 >
 >>* [Creation of a program that detects a face with OpenCv](https://github.com/maki-grz/detect-face)
 
-## <div align="center">Contact</div>  
-- Discord: MAKI#0001
-
-[![Discord](https://camo.githubusercontent.com/4c89d7d3cf8746d90bf010996b32192f4a053048f89fee353f2dee5216f4dd63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6f696e2532306d79253230446973636f72642532307365727665722532306e6f772d3732383964613f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/gaBzAVZ)
-
-## <div align="center">Stats</div>
-
-![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## <div align="center">My Skills</div>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="50" width="50"/>
@@ -44,5 +34,14 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50"/>
+</p>
 
-  </p>
+## <div align="center">Contact</div>  
+- Discord: MAKI#0001
+
+[![Discord](https://camo.githubusercontent.com/4c89d7d3cf8746d90bf010996b32192f4a053048f89fee353f2dee5216f4dd63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6f696e2532306d79253230446973636f72642532307365727665722532306e6f772d3732383964613f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/gaBzAVZ)
+
+## <div align="center">Stats</div>
+
+![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
