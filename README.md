@@ -39,5 +39,10 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" width="50"/>
-<img align="center" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50"/>
+
   </p>
