@@ -3,9 +3,9 @@
 
 >>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot)
 >
->* [Creation of a supervised learning model with **TensorFlow.Js**](https://github.com/maki-grz/prediction-tensorflow)(by Google)
+>* [Creation of a supervised learning model with **TensorFlow.Js** (by Google)](https://github.com/maki-grz/prediction-tensorflow)
 >
->>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js**](https://github.com/maki-grz/webcam-tensorflow)(by Google)
+>>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js** (by Google)](https://github.com/maki-grz/webcam-tensorflow)
 >
 >* Creation of a webapp with the framework **Electron.js** and **Vue.js**
 >
