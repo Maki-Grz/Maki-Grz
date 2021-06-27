@@ -53,4 +53,4 @@
 
 ## <div align="center">Trophy</div>
 
-[![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&theme=discord&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
