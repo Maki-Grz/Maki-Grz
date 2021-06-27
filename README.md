@@ -1,8 +1,7 @@
 # <div align="center">Maki-Grz</div>
 <br/>*`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS.`*
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
 
 >>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot)
 >
@@ -32,7 +31,6 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50"/>
 </p>
@@ -48,11 +46,11 @@
 
 ![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
 
-[![Maki-Grz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Maki-Grz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Maki-Grz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## <div align="center">Trophy</div>
 
-[![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
