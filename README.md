@@ -1,7 +1,8 @@
 # <div align="center">Maki-Grz</div>
 <br/>*`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS.`*
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
 
 >>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot)
 >
@@ -41,11 +42,17 @@
 
 [![Discord](https://camo.githubusercontent.com/4c89d7d3cf8746d90bf010996b32192f4a053048f89fee353f2dee5216f4dd63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6f696e2532306d79253230446973636f72642532307365727665722532306e6f772d3732383964613f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/gaBzAVZ)
 
-[![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/gaBzAVZ)
+[![Discord Server](https://img.shields.io/discord/686114664731377703.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/gaBzAVZ)
 
 ## <div align="center">Stats</div>
 
 ![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Maki-Grz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Maki-Grz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+## <div align="center">Trophy</div>
 
 [![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
