@@ -44,10 +44,9 @@
 
 ![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
 
-[![Maki-Grz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Maki-Grz's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Maki-Grz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Maki-Grz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <div align="center">Trophy</div>
 
@@ -55,4 +54,4 @@
 
 ## <div align="center">Activity Graph</div>
 
-[![Maki-Grz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maki-Grz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maki-Grz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maki-Grz&theme=redifal)](https://github.com/ashutosh00710/github-readme-activity-graph)
