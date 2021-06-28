@@ -50,7 +50,7 @@
 
 ## <div align="center">Trophy</div>
 
-[![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&theme=discord&no-frame=true&no-bg=true&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&theme=discord&no-frame=true&no-bg=true&row=2&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <div align="center">Activity Graph</div>
 
