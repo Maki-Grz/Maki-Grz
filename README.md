@@ -44,9 +44,9 @@
 
 ![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
 
-[![Maki-Grz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Maki-Grz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Maki-Grz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Maki-Grz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## <div align="center">Trophy</div>
