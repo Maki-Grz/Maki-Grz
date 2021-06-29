@@ -1,5 +1,5 @@
 # <div align="center">Maki-Grz</div>
-<br/>*`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS.`*
+<br/>`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS.`
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
 
