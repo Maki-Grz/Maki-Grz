@@ -16,6 +16,8 @@
 >* [Creation of Instant messaging with **Express.js** and **Socket.io**](https://github.com/maki-grz/nodejs-messagerie)
 >
 >>* [Creation of a program that detects a face with OpenCv](https://github.com/maki-grz/detect-face)
+>
+>* Several Discord Bot for many servers (**in progress**)
 
 ## <div align="center">My Skills</div>
 
