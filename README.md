@@ -9,7 +9,7 @@
 >
 >>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js** (by Google)](https://github.com/maki-grz/webcam-tensorflow)
 >
->* Creation of a webapp with the framework **Electron.js** and **Vue.js**
+>* Creation of a webapp with the framework **Electron.js** and **Vue.js** (**work in progress**)
 >
 >>* Several Rich Precense Discord with `discord-rpc`
 >
@@ -17,7 +17,7 @@
 >
 >>* [Creation of a program that detects a face with OpenCv](https://github.com/maki-grz/detect-face)
 >
->* Several Discord Bot for many servers (**in progress**)
+>* Several Discord Bot for many servers (**work in progress**)
 
 ## <div align="center">My Skills</div>
 
