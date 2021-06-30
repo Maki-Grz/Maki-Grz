@@ -44,11 +44,11 @@
 
 ## <div align="center">Stats</div>
 
-![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight)
+![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Maki-Grz's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Maki-Grz's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Maki-Grz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Maki-Grz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <div align="center">Trophy</div>
 
