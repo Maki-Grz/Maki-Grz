@@ -11,7 +11,7 @@
 >
 >* Creation of a webapp with the framework **Electron.js** and **Vue.js** (**work in progress**)
 >
->>* Several Rich Precense Discord with `discord-rpc`
+>>* Several Rich Precense Discord with `discord-rpc` (**private**)
 >
 >* [Creation of Instant messaging with **Express.js** and **Socket.io**](https://github.com/maki-grz/nodejs-messagerie)
 >
