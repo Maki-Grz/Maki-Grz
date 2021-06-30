@@ -53,4 +53,4 @@
 
 ## <div align="center">Activity Graph</div>
 
-[![Maki-Grz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maki-Grz&theme=redifal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maki-Grz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maki-Grz&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
