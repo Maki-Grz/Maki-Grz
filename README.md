@@ -46,8 +46,7 @@
 
 ![Maki-Grz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight&hide_border=true)
 [![Maki-Grz's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Maki-Grz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&layout=compact&theme=tokyonight&hide_border=true" width="496"/>
 
 ## <div align="center">Trophy</div>
 
