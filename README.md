@@ -11,7 +11,7 @@ I'm working on a private and secret project for the YouTube channel: [**Le Batai
 >
 >>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js** (by Google)](https://github.com/maki-grz/webcam-tensorflow)
 >
->* Creation of a webapp with the framework **Electron.js** and **Vue.js** (**work in progress**)
+>* Creation of a webapp with the framework **Electron.js** and **Vue.js** (**private**)
 >
 >>* Several Rich Precense Discord with `discord-rpc` (**private**)
 >
