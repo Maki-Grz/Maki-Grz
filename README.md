@@ -19,7 +19,7 @@ I'm working on a private and secret project for the YouTube channel: [**Le Batai
 >
 >>* [Creation of a program that detects a face with OpenCv](https://github.com/maki-grz/detect-face)
 >
->* Several Discord Bot for many servers (**private**)
+>* Several Discord Bot for servers (**private**)
 >
 >>* A website for Sushi or a presentation of my projects (in development)
 
