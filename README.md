@@ -11,7 +11,7 @@ I'm working on a private and secret project for the YouTube channel: [**Le Batai
 >
 >>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js** (by Google)](https://github.com/maki-grz/webcam-tensorflow)
 >
->* Creation of a webapp with the framework **Electron.js** and **Vue.js** (**private**)
+>* Creation of a webapp with the framework **Electron.js** (**private**)
 >
 >>* Several Rich Precense Discord with `discord-rpc` (**private**)
 >
@@ -21,7 +21,7 @@ I'm working on a private and secret project for the YouTube channel: [**Le Batai
 >
 >* Several Discord Bot for servers (**private**)
 >
->>* A website for Sushi or a presentation of my projects (in development)
+>>* A website for the presentation of my projects (**private**)
 
 ## <div align="center">My Skills</div>
 
