@@ -29,7 +29,6 @@ I'm working on a private and secret project for the YouTube channel: [**Le Batai
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"/>
 <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google" height="50" width="50"/>
