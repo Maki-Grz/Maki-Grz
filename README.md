@@ -1,7 +1,7 @@
 # <div align="center">Maki-Grz</div>
 <br/>`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS. I spend my time in updating my README.`
 
-I'm working on a private and secret project for the YouTube channel: [**Le Bataillon De l´Animation**](https://www.youtube.com/channel/UCnRCbAAA0KcMXwZiIfjJHmQ) validated by Aleka and Norya.
+I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Animation**](https://www.youtube.com/channel/UCnRCbAAA0KcMXwZiIfjJHmQ) validated by Aleka and Norya.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
 
