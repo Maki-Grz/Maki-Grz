@@ -23,7 +23,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >
 >>* A website for the presentation of my projects (**private**)
 >
->* Creation of a launcher for Minecraft with **Electron.js** (**private**)
+>* Creation of a launcher Minecraft with **Electron.js** (**private**)
 
 ## <div align="center">My Skills</div>
 
