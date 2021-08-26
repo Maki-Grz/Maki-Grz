@@ -11,7 +11,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >
 >>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js** (by Google)](https://github.com/maki-grz/webcam-tensorflow)
 >
->* Creation of a webapp with the framework **Electron.js** (**private**)
+>* Creation of a launcher Minecraft with **Electron.js** (**private**)
 >
 >>* Several Rich Precense Discord with `discord-rpc` (**private**)
 >
@@ -22,8 +22,6 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >* Several Discord Bot for servers (**private**)
 >
 >>* A website for the presentation of my projects (**private**)
->
->* Creation of a launcher Minecraft with **Electron.js** (**private**)
 
 ## <div align="center">My Skills</div>
 
