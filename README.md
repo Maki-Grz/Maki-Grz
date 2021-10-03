@@ -5,7 +5,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
 
->>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot) | [GitHub Presentation](https://github.com/Maki-Grz/Sushi)
+>>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot) | [GitHub Presentation](https://github.com/Maki-Grz/Sushi) (**on break**)
 >
 >* [Creation of a supervised learning model with **TensorFlow.Js** (by Google)](https://github.com/maki-grz/prediction-tensorflow)
 >
