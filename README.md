@@ -19,11 +19,11 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >
 >>* [Creation of a program that detects a face with OpenCv](https://github.com/maki-grz/detect-face)
 >
->* Several Discord Bot for servers: [`Oceania`](https://github.com/Maki-Grz/oceania-bot), [`Klee`](https://discord.gg/hV7xNT7)
+>* Several Discord Bot for servers: [`Klee`](https://discord.gg/hV7xNT7)
 >
 >>* A website for the presentation of my projects (**private**)
 >
->* ENT web scraping (**private**)
+>* ENT web scraping: [Progress Technologies](https://github.com/progress-technologies)
 
 ## <div align="center">My Skills</div>
 
