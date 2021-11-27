@@ -41,6 +41,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" width="50"/>
 </p>
 
 ## <div align="center">Contact</div>  
