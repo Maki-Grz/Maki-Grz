@@ -25,6 +25,8 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >>[![wakatime](https://wakatime.com/badge/user/39b455f3-8a5f-4c40-9246-555db483b3aa/project/220e97dd-c231-4b95-b21d-d1c3fad6697f.svg)](https://wakatime.com/badge/user/39b455f3-8a5f-4c40-9246-555db483b3aa/project/220e97dd-c231-4b95-b21d-d1c3fad6697f)
 >
 >* ENT web scraping: [Progress Technologies](https://github.com/progress-technologies)
+>
+>> Creator of Net Anime ([netanime.fr](netanime.fr)
 
 ## <div align="center">My Skills</div>
 
