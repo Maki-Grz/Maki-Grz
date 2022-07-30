@@ -26,7 +26,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >
 >* ENT web scraping: [Progress Technologies](https://github.com/progress-technologies)
 >
->> Creator of Net Anime ([netanime.fr](netanime.fr)
+>> Creator of Net Anime ([netanime.fr](netanime.fr))
 
 ## <div align="center">My Skills</div>
 
