@@ -5,6 +5,8 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
 
+## 📁 projets
+
 >>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot) | [GitHub Presentation](https://github.com/Maki-Grz/Sushi) (**on break**)
 >
 >* [Creation of a supervised learning model with **TensorFlow.Js** (by Google)](https://github.com/maki-grz/prediction-tensorflow)
@@ -26,9 +28,9 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >
 >* ENT web scraping: [Progress Technologies](https://github.com/progress-technologies)
 >
->> Creator of Net Anime ([netanime.fr](https://netanime.fr))
+>> Creator of Net Anime ([netanime.fr](https://www.netanime.fr))
 
-## <div align="center">My Skills</div>
+## ✨ compétences
 
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" height="50" width="50"/>
@@ -47,12 +49,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" width="50"/>
 </p>
 
-## <div align="center">Contact</div>  
-- Discord: MAKI#0001
-
-[![Discord](https://camo.githubusercontent.com/4c89d7d3cf8746d90bf010996b32192f4a053048f89fee353f2dee5216f4dd63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6f696e2532306d79253230446973636f72642532307365727665722532306e6f772d3732383964613f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/gaBzAVZ)
-
-## <div align="center">Stats</div>
+## 📊 Statistiques
 
 <img src="https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Makiche&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&theme=tokyonight&hide_border=true" width="400"/>
