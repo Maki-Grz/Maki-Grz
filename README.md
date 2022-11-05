@@ -5,7 +5,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
 
-## 📁 projets
+## 📁 Projets
 
 >>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot) | [GitHub Presentation](https://github.com/Maki-Grz/Sushi) (**on break**)
 >
@@ -30,7 +30,7 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 >
 >> Creator of Net Anime ([netanime.fr](https://www.netanime.fr))
 
-## ✨ compétences
+## ✨ Compétences
 
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" height="50" width="50"/>
