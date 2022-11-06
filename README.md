@@ -1,34 +1,17 @@
-# <div align="center">Maki-Grz</div>
-<br/>`Determined JavaScript developer with several concrete projects. I am a self-taught student in JavaScript and NodeJS. I spend my time in updating my README.`
+# <div align="center">Maki-Grz | Développeur Web Fullstack</div>
+## 👋 Présentation
+Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 notamment en Web. J'ai commencé avec la création d'un bot Discord en JavaSCript pour [**Le Bataillon De l´Animation**](https://www.youtube.com/channel/UCnRCbAAA0KcMXwZiIfjJHmQ). Je me passione pour le web et ses nouvelles technologies comme React, Next, Electron, MongoDB, CassandraDB et autres !
 
-I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Animation**](https://www.youtube.com/channel/UCnRCbAAA0KcMXwZiIfjJHmQ) 
+Cette année je me suis lancé antant que Freelance pour réaliser des projets de mon entourage. J'ai été mandaté pour la refonte du site d'un parent à moi pour son entreprise [**Diet In The City**](https://dietinthecity.com/).
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Maki-Grz)
+> 👑 Je suis également le créateur de [**Net Anime**](https://www.netaime.fr)
 
 ## 📁 Projets
+Voici les plus gros projets **publics**, la plus part de mes projets ne partagent pas leurs codes.
 
->>* [A Discord bot: **Sushi**](https://discord.com/api/oauth2/authorize?client_id=691343374715977839&permissions=4294967287&scope=bot) | [GitHub Presentation](https://github.com/Maki-Grz/Sushi) (**on break**)
->
->* [Creation of a supervised learning model with **TensorFlow.Js** (by Google)](https://github.com/maki-grz/prediction-tensorflow)
->
->>* [Creating a webcam with a pre-trained machine learning model with **TensorFlow.js** (by Google)](https://github.com/maki-grz/webcam-tensorflow)
->
->* Creation of a launcher Minecraft with **Electron.js** (**private**)
->
->>* Several Rich Precense Discord with `discord-rpc` (**private**)
->
->* [Creation of Instant messaging with **Express.js** and **Socket.io**](https://github.com/maki-grz/nodejs-messagerie)
->
->>* [Creation of a program that detects a face with OpenCv](https://github.com/maki-grz/detect-face)
->
->* Several Discord Bot for servers: [`Klee`](https://discord.gg/hV7xNT7), [`Znetwork`](https://github.com/maki-grz/znetwork)
->
->>* A website for the presentation of my projects ([**www.maxgrz.fr**](https://www.maxgrz.fr)) <br />
->>
->
->* ENT web scraping: [Progress Technologies](https://github.com/progress-technologies)
->
->> Creator of Net Anime ([netanime.fr](https://www.netanime.fr))
+* [**Diet In The City**](https://dietinthecity.com/) : Site web vitrine pour un diététicien.
+  * **Front-end** :  Refonte de la partie graphique et visuelle du site avec React
+  * **Back-end** : Suppression du back-end inutile
 
 ## ✨ Compétences
 
@@ -53,11 +36,3 @@ I am the developer of a bot for the YouTube channel: [**Le Bataillon De l´Anima
 
 <img src="https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Makiche&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maki-grz&theme=tokyonight&hide_border=true" width="400"/>
-
-## <div align="center">Trophy</div>
-
-[![Maki-Grz's github trophy](https://github-profile-trophy.vercel.app/?username=Maki-Grz&theme=discord&no-frame=true&no-bg=true&row=2&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-## <div align="center">Activity Graph</div>
-
-[![Maki-Grz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Maki-Grz&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
