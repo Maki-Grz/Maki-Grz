@@ -2,7 +2,7 @@
 ## 👋 Présentation
 Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 notamment en Web. J'ai commencé avec la création d'un bot Discord en JavaSCript pour [**Le Bataillon De l´Animation**](https://www.youtube.com/channel/UCnRCbAAA0KcMXwZiIfjJHmQ). Je me passione pour le web et ses nouvelles technologies comme React, Next, Electron, MongoDB, CassandraDB et autres !
 
-Cette année je me suis lancé antant que Freelance pour réaliser des projets de mon entourage. J'ai été mandaté pour la refonte du site d'un parent à moi pour son entreprise [**Diet In The City**](https://dietinthecity.com/).
+Cette année je me suis lancé comme Freelance pour réaliser des projets de mon entourage. J'ai été mandaté pour la refonte du site d'un parent à moi pour son entreprise [**Diet In The City**](https://dietinthecity.com/).
 
 > 👑 Je suis également le créateur de [**Net Anime**](https://www.netaime.fr)
 
