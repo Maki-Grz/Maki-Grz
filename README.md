@@ -13,6 +13,9 @@ Voici les plus gros projets **publics**, la plus part de mes projets ne partagen
   * **Front-end** :  Refonte de la partie graphique et visuelle du site avec React
   * **Back-end** : Suppression du back-end inutile
 
+* **Cerbère** : Bot Discord pour la Lost Souls de [**Paladium**](https://paladium-pvp.fr/).
+  * **Objectif** :  Développer un bot affichant le trombinoscope des membres de la faction.
+
 ## ✨ Compétences
 
 <p align="center">
