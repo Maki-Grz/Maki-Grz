@@ -4,7 +4,8 @@ Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 not
 
 Cette année je me suis lancé comme Freelance pour réaliser des projets de mon entourage. J'ai été mandaté pour la refonte du site d'un parent à moi pour son entreprise [**Diet In The City**](https://dietinthecity.com/).
 
-> 👑 Je suis également le créateur de [**Net Anime**](https://www.netaime.fr)
+> 👑 Je suis le créateur de [**Net Anime**](https://www.netanime.fr)
+> 🪪 Plus d'informations disponible sur [**www.maxgrz.fr**](https://www.maxgrz.fr)
 
 ## 📁 Projets
 Voici les plus gros projets **publics**, la plus part de mes projets ne partagent pas leurs codes.
