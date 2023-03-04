@@ -5,7 +5,7 @@ Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 not
 Cette année je me suis lancé comme Freelance pour réaliser des projets de mon entourage. J'ai été mandaté pour la refonte du site d'un parent à moi pour son entreprise [**Diet In The City**](https://dietinthecity.com/).
 
 > 👑 Je suis le créateur de [**Net Anime**](https://www.netanime.fr)
-> **&&** créateur de [**The Home**](https://thehome.vercel.app)
+> **et** créateur de [**The Home**](https://thehome.vercel.app)
 
 Plus d'informations disponibles sur [**www.maxgrz.fr**](https://www.maxgrz.fr)
 
