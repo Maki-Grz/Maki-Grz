@@ -9,17 +9,16 @@ Cette année je me suis lancé comme Freelance pour réaliser des projets de mon
 
 Plus d'informations disponibles sur [**www.maxgrz.fr**](https://www.maxgrz.fr)
 
-## 📁 Projets
-Voici les plus gros projets **publics**, la plus part de mes projets ne partagent pas leurs codes.
+## 📁 Projets - Externes
+Voici les plus gros projets **publics** auxquels j'ai contribué seul ou en équipe.
 
-* [**Diet In The City**](https://dietinthecity.com/) : Site web vitrine pour un diététicien.
+* [**Diet In The City**](https://dietinthecity.com/) : Site web vitrine pour un diététicien. (Seul)
   * **Front-end** :  Refonte de la partie graphique et visuelle du site avec React
   * **Back-end** : Suppression du back-end inutile
 
-* [**Lost Souls**](https://lostsouls.fr/) : Bot Discord, site web et système des recrutements.
+* [**Lost Souls**](https://lostsouls.fr/) : Bot Discord, site web et système des recrutements. (Seul)
   * **Cerbère** :  Développer un bot affichant le trombinoscope des membres de la faction.
   * **Site** : Refonte du design
-  * **Coming Soon** : ...
 
 ## ✨ Compétences
 
