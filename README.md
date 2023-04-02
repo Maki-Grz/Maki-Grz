@@ -20,6 +20,10 @@ Voici les plus gros projets **publics** auxquels j'ai contribué seul ou en équ
   * **Cerbère** :  Développer un bot affichant le trombinoscope des membres de la faction.
   * **Site** : Refonte du design
 
+* [**Paladium**](https://paladium-pvp.fr/) : Participant au test web pour rejoindre le pôle web de l'entreprise (Seul)
+  * **Front-end** : Création d'une page article dinamique et d'un layout complet (navbar, footer, etc) avec le framewoks Vue
+  * **Back-end** :  Création d'une API avec un CRUD et une authentification à l'aide NodeJS et Nuxt-Auth 
+
 ## ✨ Compétences
 
 <p align="center">
