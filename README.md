@@ -22,25 +22,6 @@ Voici les plus gros projets **publics** auxquels j'ai contribué seul ou en équ
 
 * [**Modded**](https://modded.fr/) : Développeur Web Fullstack (Seul)
 
-## ✨ Compétences
-
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"/>
-<img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" width="50"/>
-</p>
-
 ## 📊 Statistiques
 
 <img src="https://github-readme-stats.vercel.app/api?username=maki-grz&show_icons=true&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=tokyonight&hide_border=true" width="400"/>
