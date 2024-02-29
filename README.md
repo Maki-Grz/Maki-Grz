@@ -1,9 +1,9 @@
 # <div align="center">Maki-Grz | Développeur Web Fullstack</div>
 ## 👋 Présentation
-Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 notamment en Web. J'ai commencé avec la création d'un bot Discord en JavaScript pour [**Le Bataillon De l´Animation**](https://www.youtube.com/channel/UCnRCbAAA0KcMXwZiIfjJHmQ). Je me passione pour le web et ses nouvelles technologies comme React, Next, Electron, MongoDB, CassandraDB et autres !
+Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 notamment en Web. 
+Je me passione pour le web et ses nouvelles technologies comme React, NextJS, Vue, NUxtJS, MongoDB, ScylladB, Rust et autres !
 
-> 👑 Je suis le créateur de [**Net Anime**](https://www.netanime.fr)
-> **et** créateur de [**The Home**](https://thehome.vercel.app)
+> 👑 Fondateur de [**Net Anime**](https://www.netanime.fr)
 
 Plus d'informations disponibles sur [**www.maxgrz.fr**](https://www.maxgrz.fr)
 
@@ -22,15 +22,7 @@ Plus d'informations disponibles sur [**www.maxgrz.fr**](https://www.maxgrz.fr)
 ## 📁 Projets - Externes
 Voici les plus gros projets **publics** auxquels j'ai contribué seul ou en équipe.
 
-* [**Diet In The City**](https://dietinthecity.com/) : Site web vitrine pour un diététicien. (Seul)
-  * **Front-end** :  Refonte de la partie graphique et visuelle du site avec React
-  * **Back-end** : Suppression du back-end inutile
-
-* [**Lost Souls**](https://lostsouls.fr/) : Bot Discord, site web et système des recrutements. (Seul)
-  * **Cerbère** :  Développer un bot affichant le trombinoscope des membres de la faction.
-  * **Site** : Refonte du design
-
-* [**Modded**](https://modded.fr/) : Développeur Web Fullstack (Seul)
+* [**Modded**](https://modded.fr/) : Développeur Web Full Stack (VueJS, NuxtJS, KV, Cloudflare, Stripe)
 
 ###
 
