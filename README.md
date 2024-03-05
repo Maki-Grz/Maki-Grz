@@ -1,7 +1,7 @@
 # <div align="center">Maki-Grz | Développeur Web Fullstack</div>
 ## 👋 Présentation
 Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 notamment en Web. 
-Je me passione pour le web et ses nouvelles technologies comme React, NextJS, Vue, NUxtJS, MongoDB, ScylladB, Rust et autres !
+Je me passione pour le web et ses nouvelles technologies comme React, NextJS, Vue, NuxtJS, MongoDB, ScylladB, Rust et autres !
 
 > 👑 Fondateur de [**Net Anime**](https://www.netanime.fr)
 
