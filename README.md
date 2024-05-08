@@ -1,7 +1,7 @@
-# <div align="center">Maki-Grz | Développeur Web Fullstack</div>
+# <div align="center">Maki-Grz | Développeur Web Full Stack</div>
 ## 👋 Présentation
 Salut, je suis Maki. Étudiant dans le domaine de l'informatique depuis 2020 notamment en Web. 
-Je me passione pour le web et ses nouvelles technologies comme React, NextJS, Vue, NuxtJS, MongoDB, ScylladB, Rust et autres !
+Je me passione pour le web et ses nouvelles technologies comme React, NextJS, Vue, NuxtJS, MongoDB, ScylladB, NestJS et autres !
 
 > 👑 Fondateur de [**Net Anime**](https://www.netanime.fr)
 
@@ -19,10 +19,10 @@ Plus d'informations disponibles sur [**www.maxgrz.fr**](https://www.maxgrz.fr)
   </a>
 </div>
 
-## 📁 Projets - Externes
-Voici les plus gros projets **publics** auxquels j'ai contribué seul ou en équipe.
+## 📁 Projets/Experiences - Externes
 
 * [**Modded**](https://modded.fr/) : Développeur Web Full Stack (VueJS, NuxtJS, KV, Cloudflare, Stripe)
+* [**Paladium**](https://paladium-pvp.fr/) : Développeur Web Full Stack (VueJS, NuxtJS, MongoDB, Azure, NestJS)
 
 ###
 
