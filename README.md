@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @Paladium<br>🌱 I’m currently learning Rust<br>💬 Ask me about my projects<br>⚡ Fun fact, i love sushi
+🔭 I’m currently working for @Paladium<br>🌱 I’m currently learning Rust<br>💬 Ask me about Netanime<br>⚡ Fun fact, i love sushi
 
 
 ## 🌐 Socials:
