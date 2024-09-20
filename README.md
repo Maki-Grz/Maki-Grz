@@ -1,5 +1,5 @@
 # 💫 About Me :
-### Full Stack Web Developer | Microsoft Azure Certified | Rust lover
+### Full Stack Web Developer | Microsoft Azure Certified | Rust lover 🦀
 🔭 I’m currently working for @Paladium<br>🌱 I’m currently learning Rust<br>💬 Ask me about Netanime<br>⚡ Fun fact, i love sushi 🍣
 
 
