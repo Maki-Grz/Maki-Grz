@@ -2,6 +2,8 @@
 ### Full Stack Web Developer | Microsoft Azure Certified | Rust lover 🦀
 🔭 I’m currently working for @Paladium and @Modded<br>🌱 I’m currently learning Rust<br>💬 Ask me about Netanime<br>⚡ Fun fact, i love sushi 🍣
 
+*Epitech Student 2025!*
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maki_grz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maximilien-Grzeczka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maki_grz) 
