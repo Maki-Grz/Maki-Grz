@@ -1,9 +1,10 @@
 ## 💫 About Me :
-### Full Stack Web Developer | Microsoft Azure Certified | Rust Learner 🦀
+### Full Stack Web Developer | Rust Learner 🦀
 🔭 I’m currently working for @Paladium and @Modded
 <br>🌱 I’m currently learning Rust for powerful backends services
 <br>💬 Ask me about Netanime - Streaming Service (educational purpose)
-<br>⚡ Fun fact, i love sushi 🍣
+<br>🍣 Fun fact, i love sushi
+<br>⚡Microsoft Azure Certified
 
 *Epitech Student 2025 !*
 
