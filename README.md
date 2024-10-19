@@ -5,7 +5,7 @@
 <br>💬 Ask me about Netanime - Streaming Service (educational purpose)
 <br>🍣 Fun fact, i love sushi !!!
 <br>⚡ Microsoft Azure Certified
-<br>🍎 Apple Ads Certified
+<br>🍎 Apple Search Ads Certified
 
 *Epitech Student 2025 !*
 
