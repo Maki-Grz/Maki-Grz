@@ -7,7 +7,7 @@
 <br>⚡ Microsoft Azure Certified
 <br>🍎 Apple Search Ads Certified
 
-*Epitech Student 2025 - Master of Science*
+*Epitech Student 2025 - Master of Science AI*
 
 
 ## 🌐 Socials :
