@@ -1,5 +1,5 @@
 ## 💫 About Me :
-### Full Stack Web Developer | Rust Learner 🦀
+### Full Stack Developer | Rust Learner 🦀
 🔭 I’m currently working for @Paladium, @Vinci (Construction SI) and worked for @Modded
 <br>🌱 I’m currently learning Rust for powerful backends services
 <br>💬 Ask me about Netanime 3.0 - Streaming Service (educational purpose)
