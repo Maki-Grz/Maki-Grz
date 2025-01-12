@@ -4,7 +4,7 @@
 <br>🌱 I’m currently learning Rust for powerful backends services
 <br>💬 Ask me about Netanime 3.0 - Streaming Service (educational purpose)
 <br>🍣 Fun fact, i love sushi !
-<br>⚡ Microsoft Azure Certified AZ-900
+<br>⚡ Microsoft Azure AZ-900 Certified
 <br>🍎 Apple Search Ads Certified
 
 *Epitech Student 09/2025 - 07/2028*
