@@ -3,7 +3,7 @@
 🔭 I’m currently working for Paladium and worked at Vinci and Modded
 <br>🌱 I’m currently learning Rust for powerful backends services
 <br>💬 Ask me about Netanime 3.0 - Streaming Service
-<br>🍣 Fun fact, i love sushi !!!!!!!!!!!!!!!!!!m
+<br>🍣 Fun fact, i love sushi !!!!!!!!!!!!!!!!!m
 <br>⚡ Microsoft Azure AZ-900 Certified
 <br>🍎 Apple Search Ads Certified
 
