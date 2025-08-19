@@ -46,4 +46,4 @@ Figma, Grafana, Prometheus, Postman, Confluence
 * **Netanime 3.0** – Streaming redirection platform (3k+ clicks, 20k impressions)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&hide_border=false&include_all_commits=rue&count_private=true&layout=compact)
