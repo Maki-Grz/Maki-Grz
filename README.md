@@ -45,5 +45,5 @@ Figma, Grafana, Prometheus, Postman, Confluence
 * **Modded** – E-commerce platform with Stripe integration & microservices architecture
 * **Netanime 3.0** – Streaming redirection platform (3k+ clicks, 25k impressions)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&hide_border=false&include_all_commits=rue&count_private=true&layout=compact)
+![Maki-Grz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=true) ![Maki-Grz's Stats](https://github-readme-stats.vercel.app/api?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![Maki-Grz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&layout=compact) 
