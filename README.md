@@ -43,7 +43,7 @@ Figma, Grafana, Prometheus, Postman, Confluence
 * **Paladium Games** – Real-time support system, API & admin panel, scaling to 100k+ users
 * **Vinci Construction SI** – Training management application for 400+ employees (SAP CAP, HANA Cloud)
 * **Modded** – E-commerce platform with Stripe integration & microservices architecture
-* **Netanime 3.0** – Streaming redirection platform (3k+ clicks, 20k impressions)
+* **Netanime 3.0** – Streaming redirection platform (3k+ clicks, 25k impressions)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&hide_border=false&include_all_commits=rue&count_private=true&layout=compact)
