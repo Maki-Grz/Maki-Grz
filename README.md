@@ -4,7 +4,7 @@
 
 With over 4 years of experience as a freelance developer, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a **Master’s degree at Epitech Paris (2025–2028)** while working as a **Full Stack Developer at Paladium Games**.
 
-I have contributed to large-scale projects for companies like **Vinci Construction SI** and **Modded**, delivering impactful solutions in **agile environments**.
+I have contributed to large-scale projects for companies like **Vinci Construction SI**, delivering impactful solutions in **agile environments**.
 I am passionate about **backend development in Rust**, cloud infrastructures, and crafting modern user experiences.
 
 * 🔭 Currently building real-time systems at **Paladium Games** (100,000+ players community)
