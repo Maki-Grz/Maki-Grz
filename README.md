@@ -9,7 +9,7 @@ I am passionate about **backend development in Rust**, cloud infrastructures, an
 
 * 🔭 Currently building real-time systems at **Paladium Games** (100,000+ players community)
 * 🌱 Exploring **Rust** for powerful and efficient backend services
-* 💬 Creator of **Netanime 3.0**, a streaming redirection platform
+* 💬 Creator of **Netanime 3.0**, a streaming platform
 * ⚡ Certified: **Microsoft Azure (AZ-900)**, **Apple Search Ads**, **ScyllaDB**, **Linux Foundation**
 
 ---
