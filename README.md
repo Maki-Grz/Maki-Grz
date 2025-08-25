@@ -9,7 +9,7 @@ I am passionate about **backend development in Rust**, cloud infrastructures, an
 
 * 🔭 Currently building real-time systems at **Paladium Games** (100,000+ players community)
 * 🌱 Exploring **Rust** for powerful and efficient backend services
-* 💬 Creator of **Netanime 3.0**, a streaming platform
+* 💬 Creator of **Netanime 3.0**, a streaming platform (educative purpose only)
 * ⚡ Certified: **Microsoft Azure (AZ-900)**, **Apple Search Ads**, **ScyllaDB**, **Linux Foundation**
 
 ---
@@ -31,7 +31,7 @@ Rust, TypeScript, JavaScript, Node.js, Nest.js, NestJS, Vue.js, Nuxt, React, PHP
 Microsoft Azure, Google Cloud, Docker, Nginx, Apache, CI/CD, GitHub, GitLab, Jira, Trello
 
 **Databases**
-MongoDB, MySQL, MariaDB, Hana Cloud, ScyllaDB, Cassandra
+MongoDB, MySQL, MariaDB, Hana Cloud, ScyllaDB, Cassandra, Cosmo DB
 
 **Other Tools**
 Figma, Grafana, Prometheus, Postman, Confluence
@@ -43,7 +43,7 @@ Figma, Grafana, Prometheus, Postman, Confluence
 * **Paladium Games** – Real-time support system, API & admin panel, scaling to 100k+ users
 * **Vinci Construction SI** – Training management application for 400+ employees (SAP CAP, HANA Cloud)
 * **Modded** – E-commerce platform with Stripe integration & microservices architecture
-* **Netanime 3.0** – Streaming redirection platform (3k+ clicks, 25k impressions)
+* **Netanime 3.0** – Streaming redirection platform (3k+ clicks, 30k impressions)
 
 ![Maki-Grz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=true) ![Maki-Grz's Stats](https://github-readme-stats.vercel.app/api?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![Maki-Grz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&layout=compact) 
