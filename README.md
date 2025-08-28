@@ -49,9 +49,9 @@ Figma, Grafana, Prometheus, Postman, Confluence
 [![wakatime](https://wakatime.com/badge/user/39b455f3-8a5f-4c40-9246-555db483b3aa.svg)](https://wakatime.com/@39b455f3-8a5f-4c40-9246-555db483b3aa) 
 [![wakatime since](https://img.shields.io/badge/since_30_june_2021-blue)](https://wakatime.com/@39b455f3-8a5f-4c40-9246-555db483b3aa)
 
-[![languages pie chart]("https://wakatime.com/share/@Maki_Grz/b73106b9-9222-4fa9-88a5-4014b2c981dd.svg")](https://wakatime.com/@39b455f3-8a5f-4c40-9246-555db483b3aa)
+<img src="https://wakatime.com/share/@Maki_Grz/b73106b9-9222-4fa9-88a5-4014b2c981dd.svg" />
 
 ## 📊 Github Stats
 
-![Maki-Grz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=true) <br/>
+![Maki-Grz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=true)
 ![Maki-Grz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&layout=compact) 
