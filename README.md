@@ -53,5 +53,6 @@ Figma, Grafana, Prometheus, Postman, Confluence
 
 ## 📊 Github Stats
 
+![Maki-Grz's Stats](https://github-readme-stats.vercel.app/api?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Maki-Grz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maki-Grz&theme=dark&hide_border=true)
-![Maki-Grz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&layout=compact) 
+![Maki-Grz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maki-Grz&theme=dark&show_icons=true&hide_border=true&layout=compact)
