@@ -25,7 +25,7 @@ I am passionate about **backend development in Rust**, cloud infrastructures, an
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Languages & Frameworks**
-Rust, TypeScript, JavaScript, Node.js, Nest.js, NestJS, Vue.js, Nuxt, React, Next.js, PHP, C#, .NET, SAP CAP
+Rust, TypeScript, JavaScript, Node.js, NestJS, Vue.js, Nuxt, React, Next.js, PHP, C#, .NET, SAP CAP
 
 **Cloud & DevOps**
 Microsoft Azure, Google Cloud, Docker, Nginx, Apache, CI/CD, GitHub, GitLab, Jira, Trello
