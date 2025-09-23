@@ -7,10 +7,11 @@ With over 4 years of experience as a freelance developer, I specialize in design
 I have contributed to large-scale projects for companies like **[Vinci Construction SI](https://vinci-construction.com/fr/)**, delivering impactful solutions in **agile environments**.
 I am passionate about **backend development in Rust**, cloud infrastructures, and crafting modern user experiences.
 
-* 🔭 Currently building real-time systems at **[Paladium Games](https://paladium-pvp.fr)** (100,000+ players community)
+* 🔭 I developed a real-time support system for **[Paladium Games](https://paladium-pvp.fr)** (100,000+ players community)
 * 🌱 Exploring **Rust** for powerful and efficient backend services
 * 💬 Creator of **Netanime 3.0**, a streaming platform (educative purpose only)
 * ⚡ Certified: **Microsoft Azure (AZ-900)**, **Apple Search Ads**, **ScyllaDB**, **Linux Foundation**
+* 🦀 Leptos, you’re a fantastic library for web development !
 
 ---
 
