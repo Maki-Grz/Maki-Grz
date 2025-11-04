@@ -9,9 +9,9 @@ I am passionate about **backend development in Rust**, cloud infrastructures, an
 
 * 🔭 I developed a real-time support system for **[Paladium Games](https://paladium-pvp.fr)** (100,000+ players community)
 * 🌱 Exploring **Rust** for powerful and efficient backend services
-* 💬 Creator of **Netanime 3.0**, a streaming platform (educative purpose only)
+* 💬 Creator of **Netanime v3.0**, a streaming platform
 * ⚡ Certified: **Microsoft Azure (AZ-900)**, **Apple Search Ads**, **ScyllaDB**, **Linux Foundation**
-* 🦀 Leptos, you’re a fantastic library for web development !
+* 🗺️ Month discovery : Astro + Svelte
 
 ---
 
@@ -26,16 +26,16 @@ I am passionate about **backend development in Rust**, cloud infrastructures, an
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Languages & Frameworks**
-Rust, TypeScript, JavaScript, Node.js, NestJS, Vue.js, Nuxt, React, Next.js, PHP, C#, .NET, SAP CAP
+Rust, TypeScript, JavaScript, Node.js, NestJS, Vue.js, Nuxt, React, Next.js, PHP, C#, .NET, SAP CAP, Svelte, Astro
 
 **Cloud & DevOps**
 Microsoft Azure, Google Cloud, Docker, Nginx, Apache, CI/CD, GitHub, GitLab, Jira, Trello
 
 **Databases**
-MongoDB, MySQL, MariaDB, Hana Cloud, ScyllaDB, Cassandra, Cosmo DB
+MongoDB, MySQL, MariaDB, Hana Cloud, ScyllaDB, Cassandra, Cosmo DB, PostgreSQL
 
 **Other Tools**
-Figma, Grafana, Prometheus, Postman, Confluence
+Figma, Grafana, Prometheus, Postman, Confluence (Jira, Trello), JetBrains
 
 ---
 
@@ -44,7 +44,7 @@ Figma, Grafana, Prometheus, Postman, Confluence
 * **[Paladium Games](https://paladium-pvp.fr)** – Real-time support system, API & admin panel, scaling to 100k+ users
 * **[Vinci Construction SI](https://vinci-construction.com/fr/)** – Training management application for 400+ employees (SAP CAP, HANA Cloud)
 * **[Modded](https://modded.fr)** – E-commerce platform with Stripe integration & microservices architecture
-* **Netanime 3.0** – Streaming redirection platform (3k+ clicks, 30k impressions)
+* **[Netanime v2.0](https://netanime.fr)** – Streaming redirection platform (3k+ clicks, 30k impressions)
 
 ## 📊 WakaTime
 [![wakatime](https://wakatime.com/badge/user/39b455f3-8a5f-4c40-9246-555db483b3aa.svg)](https://wakatime.com/@39b455f3-8a5f-4c40-9246-555db483b3aa) 
