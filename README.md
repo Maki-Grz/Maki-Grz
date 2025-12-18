@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Rust Enthusiast 🦀
 
-With over 4 years of experience as a freelance developer, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a **Master Of Science at [Epitech Paris](https://www.epitech.eu/) (2025–2028)** while working as a **Full Stack Developer at [Paladium Games](https://paladium-pvp.fr)**.
+With over 4 years of experience as a freelance developer, I specialize in designing and building robust web solutions with a focus on performance and scalability. Currently, I am pursuing a **Master Of Science at [Epitech Paris](https://www.epitech.eu/) (2025–2028)** while working as a **Full Stack Developer at [Vinci Construction SI](https://vinci-construction.com/fr/)**.
 
 I have contributed to large-scale projects for companies like **[Vinci Construction SI](https://vinci-construction.com/fr/)**, delivering impactful solutions in **agile environments**.
 I am passionate about **backend development in Rust**, cloud infrastructures, and crafting modern user experiences.
