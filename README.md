@@ -11,7 +11,7 @@ I am passionate about **backend development in Rust**, cloud infrastructures, an
 * 🌱 Exploring **Rust** for powerful and efficient backend services
 * 💬 Creator of **Netanime v3.0**, a streaming platform
 * ⚡ Certified: **Microsoft Azure (AZ-900)**, **Apple Search Ads**, **ScyllaDB**, **Linux Foundation**
-* 🗺️ Month discovery : Astro + Svelte
+* 🗺️ Month discovery : Qdrant
 
 ---
 
