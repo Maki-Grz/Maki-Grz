@@ -32,7 +32,7 @@ Rust, TypeScript, JavaScript, Node.js, NestJS, Vue.js, Nuxt, React, Next.js, PHP
 Microsoft Azure, Google Cloud, Docker, Nginx, Apache, CI/CD, GitHub, GitLab, Jira, Trello
 
 **Databases**
-MongoDB, MySQL, MariaDB, Hana Cloud, ScyllaDB, Cassandra, Cosmo DB, PostgreSQL
+MongoDB, MySQL, MariaDB, Hana Cloud, ScyllaDB, Cassandra, Cosmo DB, PostgreSQL, Qdrant
 
 **Other Tools**
 Figma, Grafana, Prometheus, Postman, Confluence (Jira, Trello), JetBrains
