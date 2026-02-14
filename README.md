@@ -1,7 +1,7 @@
 # Maximilien Grzeczka
 **Full Stack Developer | Rust Enthusiast 🦀 | SAP BTP & AI Systems**
 
-Full Stack Developer focused on high-performance systems and the modernization of enterprise architectures. I currently lead the transition to Cloud-Ready and Clean Core environments at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **Epitech Paris**.
+Full Stack Developer focused on high-performance systems and the modernization of enterprise architectures. I currently work on the transition to Cloud-Ready and Clean Core environments at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **Epitech Paris**.
 
 ---
 
