@@ -12,7 +12,7 @@ Full Stack Developer focused on high-performance systems and the modernization o
 
 ### Selected Projects
 
-#### [lumen-rag](https://github.com/Max-Grz/lumen-rag)
+#### [lumen-rag](https://github.com/Maki-Grz/lumen-rag)
 A high-performance RAG framework written in **Rust**. It implements local BERT embeddings via the Candle library to optimize compute costs and retrieval latency. Designed with a modular backend architecture supporting Qdrant, MongoDB, and CosmosDB.
 
 #### [Qdrant Rust Client](https://github.com/qdrant/rust-client)
