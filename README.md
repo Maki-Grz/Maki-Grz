@@ -7,7 +7,7 @@ Full Stack Developer focused on high-performance systems and the modernization o
 
 ### Core Focus
 * **Enterprise Modernization:** Architecting SAP BTP solutions using Clean Core principles (ABAP Cloud, RAP, CDS).
-* **AI Engineering:** Researching and deploying RAG (Retrieval-Augmented Generation) and NLP models via SAP AI Core.
+* **AI Engineering:** Researching and deploying RAG (Retrieval-Augmented Generation) and LLM's via SAP AI Core.
 * **System Performance:** Engineering low-latency backends and high-concurrency infrastructures in Rust.
 
 ### Selected Projects
