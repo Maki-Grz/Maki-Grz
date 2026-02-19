@@ -16,7 +16,7 @@ Full Stack Developer focused on high-performance systems and the modernization o
 A high-performance RAG framework written in **Rust**. It implements local BERT embeddings via the Candle library to optimize compute costs and retrieval latency. Designed with a modular backend architecture supporting Qdrant, MongoDB, and CosmosDB.
 
 #### [Qdrant Rust Client](https://github.com/qdrant/rust-client)
-Active contributor to the official Rust SDK for the Qdrant vector database. My work focuses on SDK maintenance, performance optimization, and streamlining the developer experience for vector search implementations.
+Small contributor to the official Rust SDK for the Qdrant vector database. My work focuses on SDK maintenance, performance optimization, and streamlining the developer experience for vector search implementations.
 
 #### [Netanime](https://www.maxgrz.fr/blog/netanime-v3)
 A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built with an Actix-web API, it was engineered to handle high traffic loads with significant engagement (40k+ impressions).
