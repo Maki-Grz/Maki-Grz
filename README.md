@@ -1,25 +1,39 @@
 # Maximilien Grzeczka
 **Full Stack Developer | Rust Enthusiast 🦀 | SAP BTP & AI Systems**
 
-Full Stack Developer focused on high-performance systems and the modernization of enterprise architectures. I currently work on the transition to Cloud-Ready and Clean Core environments at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **Epitech Paris**.
+> [!IMPORTANT]  
+> **Current Mission:** I am currently driving the transition to Cloud-Ready and Clean Core environments at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **Epitech Paris**.
+
+Full Stack Developer focused on high-performance systems, artificial intelligence, and the modernization of enterprise architectures. 
 
 ---
+
+> [!NOTE]  
+> **Architectural Philosophy:** Bridging the gap between robust legacy enterprise ecosystems (SAP BTP) and modern, high-concurrency paradigms using Rust, Vector databases, and AI modeling.
 
 ### Core Focus
 * **Enterprise Modernization:** Architecting SAP BTP solutions using Clean Core principles (ABAP Cloud, RAP, CDS).
 * **AI Engineering:** Researching and deploying RAG (Retrieval-Augmented Generation) and LLM's via SAP AI Core.
 * **System Performance:** Engineering low-latency backends and high-concurrency infrastructures in Rust.
 
+---
+
 ### Selected Projects
 
 #### [lumen-rag](https://github.com/Maki-Grz/lumen-rag)
 A high-performance RAG framework written in **Rust**. It implements local BERT embeddings via the Candle library to optimize compute costs and retrieval latency. Designed with a modular backend architecture supporting Qdrant, MongoDB, and CosmosDB.
+> [!TIP]
+> Looking for a fast, local vector search implementation ? Check out this modular architecture to see how to balance compute costs and retrieval latency effectively.
 
 #### [Qdrant Rust Client](https://github.com/qdrant/rust-client)
 Small contributor to the official Rust SDK for the Qdrant vector database. My work focuses on SDK maintenance, performance optimization, and streamlining the developer experience for vector search implementations.
 
 #### [Netanime](https://www.maxgrz.fr/blog/netanime-v3)
-A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built with an Actix-web API, it was engineered to handle high traffic loads with significant engagement (40k+ impressions).
+A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built with an Actix-web API, it was engineered to handle high traffic loads with significant engagement.
+> [!WARNING]  
+> **High Traffic Achieved:** Engineered to successfully process 40k+ impressions while maintaining low latency and system stability.
+
+---
 
 ### Technical Infrastructure
 * **Languages:** Rust (Actix/Axum), TypeScript, ABAP Cloud, Node.js.
@@ -29,9 +43,12 @@ A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built wi
 ### Validations
 * **ScyllaDB:** 5x Certified.
 * **Microsoft:** Azure Fundamentals (AZ-900).
-* **Apple:** Apple Searh Ads
+* **Apple:** Apple Search Ads.
 
 ---
+
+> [!CAUTION]
+> **Proceed with caution:** I have a highly contagious passion for strict type safety and might spontaneously suggest rewriting your backend in Rust. 🦀
 
 [LinkedIn](https://linkedin.com/in/Maximilien-Grzeczka) • [Portfolio](https://maxgrz.fr)
 
