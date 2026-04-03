@@ -17,8 +17,8 @@ Full Stack Developer focused on high-performance systems, artificial intelligenc
 
 ### Selected Projects
 
-#### [lumen-rag](https://github.com/Maki-Grz/lumen-rag)
-A high-performance RAG framework written in **Rust**. It implements local BERT embeddings via the Candle library to optimize compute costs and retrieval latency. Designed with a modular backend architecture supporting Qdrant, MongoDB, and CosmosDB.
+#### [AI Research Lab](arl.maxgrz.fr)
+Dedicated to the end-to-end lifecycle of Artificial Intelligence. This website archives my research insights, learning milestones, and practical methodologies for deploying specialized AI models into production-ready systems.
 
 #### [Qdrant Rust Client](https://github.com/qdrant/rust-client)
 Small contributor to the official Rust SDK for the Qdrant vector database. My work focuses on SDK maintenance, performance optimization, and streamlining the developer experience for vector search implementations.
