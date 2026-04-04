@@ -17,7 +17,7 @@ Full Stack Developer focused on high-performance systems, artificial intelligenc
 
 ### Selected Projects
 
-#### [AI Research Lab](arl.maxgrz.fr)
+#### [AI Research Lab](https://arl.maxgrz.fr)
 Dedicated to the end-to-end lifecycle of Artificial Intelligence. This website archives my research insights, learning milestones, and practical methodologies for deploying specialized AI models into production-ready systems.
 
 #### [Qdrant Rust Client](https://github.com/qdrant/rust-client)
