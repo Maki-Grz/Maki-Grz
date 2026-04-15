@@ -20,9 +20,6 @@ Full Stack Developer focused on high-performance systems, artificial intelligenc
 #### [AI Research Lab](https://arl.maxgrz.fr)
 Dedicated to the end-to-end lifecycle of Artificial Intelligence. This website archives my research insights, learning milestones, and practical methodologies for deploying specialized AI models into production-ready systems.
 
-#### [Qdrant Rust Client](https://github.com/qdrant/rust-client)
-Small contributor to the official Rust SDK for the Qdrant vector database. My work focuses on SDK maintenance, performance optimization, and streamlining the developer experience for vector search implementations.
-
 #### [Netanime](https://www.maxgrz.fr/blog/netanime-v3)
 A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built with an Actix-web API, it was engineered to handle high traffic loads with significant engagement.
 
