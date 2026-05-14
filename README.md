@@ -1,5 +1,5 @@
 # Maximilien Grzeczka
-**Full Stack Developer | Rust Enthusiast 🦀 | SAP Systems**
+**Full Stack Developer | Rust Enthusiast 🦀 | SAP ERP**
 
 > [!IMPORTANT]  
 > **Current Mission:** I am currently driving the transition to Cloud-Ready and Clean Core environments at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **EPITECH Paris**.
