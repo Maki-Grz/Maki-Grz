@@ -25,7 +25,7 @@ A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built wi
 
 ### Technical Infrastructure
 * **Languages:** Rust (Actix/Axum), TypeScript, ABAP Cloud, Node.js.
-* **Data & AI:** Qdrant (Vector Search), ScyllaDB, CosmosDB, SAP AI Core, SAP Joule, BERT/Candle.
+* **Data & AI:** Qdrant (Vector Search), ScyllaDB, CosmosDB, SAP AI Core, SAP Joule (Skills & Agents), BERT/Candle.
 * **Cloud:** SAP BTP, Azure, Google Cloud, AWS, Cloudflare Workers.
 
 ### Validations
