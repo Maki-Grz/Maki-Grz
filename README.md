@@ -15,8 +15,8 @@
 
 ### Selected Projects
 
-#### [AI Research Lab](https://arl.maxgrz.fr)
-Dedicated to the end-to-end lifecycle of Artificial Intelligence. This website archives my research insights, learning milestones, and practical methodologies for deploying specialized AI models into production-ready systems.
+#### [Artificial Intelligence Lab](https://arl.maxgrz.fr)
+Build, compile, quantize, and deploy secure, low-latency AI models locally on Qualcomm Snapdragon NPUs and Oryon CPUs with Aura SDK, Aura Models, and Aura Compiler.
 
 #### [Netanime](https://www.maxgrz.fr/blog/netanime-v3)
 A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built with an Actix-web API, it was engineered to handle high traffic loads with significant engagement.
