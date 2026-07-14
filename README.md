@@ -1,37 +1,37 @@
 # Maximilien Grzeczka
-**Full Stack Developer | Rust Enthusiast 🦀 | SAP ERP**
+**SAP BTP Architect | AI & Rust Engineer 🦀**
 
 > [!IMPORTANT]  
-> **Current Mission:** I am currently driving the transition to Cloud-Ready and Clean Core environments at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **EPITECH Paris**.
+> **Current Mission:** I am currently architecting Cloud-Ready, Clean Core, and Generative AI solutions at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **EPITECH Paris**.
 
 ---
 
 ### Core Focus
-* **Enterprise Modernization:** Architecting SAP BTP solutions using Clean Core principles (ABAP Cloud, RAP, CDS).
-* **AI Engineering:** Researching and deploying RAG (Retrieval-Augmented Generation), Edge AI with Qualcomm's Snapdragon ARM Processor and LLM's via SAP AI Core.
-* **System Performance:** Engineering low-latency backends and high-concurrency infrastructures in Rust.
+* Designing enterprise SAP BTP solutions, managing cloud infrastructure (HANA Cloud, ABAP Cloud), and orchestrating hybrid integrations with S/4HANA core systems.
+* Developing autonomous AI agents, custom skills, and RAG pipelines via SAP Joule and SAP AI Core to automate complex ERP workflows.
+* Engineering high-concurrency backend infrastructures, low-latency APIs, and local NPU/ARM64 machine learning inference engines in Rust.
 
 ---
 
 ### Selected Projects
 
-#### [Artificial Intelligence Lab](https://arl.maxgrz.fr)
-Build, compile, quantize, and deploy secure, low-latency AI models locally on Qualcomm Snapdragon NPUs and Oryon CPUs with Aura SDK, Aura Models, and Aura Compiler.
+#### [Aura SDK](https://github.com/maki-grz/aura-sdk)
+Rust bindings and a CLI runner for Qualcomm Genie and QNN to enable hardware-accelerated AI inference on Snapdragon X Plus ARM64 NPUs.
 
-#### [Netanime](https://www.maxgrz.fr/blog/netanime-v3)
-A full-stack streaming infrastructure leveraging Apple HLS and AWS EC2. Built with an Actix-web API, it was engineered to handle high traffic loads with significant engagement.
+#### [Lumen RAG](https://github.com/maki-grz/lumen-rag)
+A high-performance, local RAG pipeline written natively in Rust using the Hugging Face Candle framework to minimize compute latency with optimized BERT embeddings.
 
 ---
 
 ### Technical Infrastructure
-* **Languages:** Rust (Actix/Axum), TypeScript, ABAP Cloud, Node.js.
-* **Data & AI:** Qdrant (Vector Search), ScyllaDB, CosmosDB, SAP AI Core, SAP Joule (Skills & Agents), BERT/Candle.
-* **Cloud:** SAP BTP, Azure, Google Cloud, AWS, Cloudflare Workers.
+* **Languages:** Rust (Actix/Axum), TypeScript, Node.js, ABAP Cloud (RAP, CDS).
+* **Data & AI:** SAP AI Core, SAP Joule (Skills & Agents), Qdrant (Vector Search), HANA Cloud, ScyllaDB, CosmosDB, Hugging Face Candle.
+* **Cloud & DevOps:** SAP BTP (Provisioning & Admin), Azure, Google Cloud, AWS, Cloudflare, Azure DevOps (CI/CD).
 
 ### Validations
-* **ScyllaDB:** 5x Certified.
-* **Microsoft:** Azure Fundamentals (AZ-900).
-* **Apple:** Apple Search Ads.
+* ScyllaDB: 5x Certified.
+* Microsoft: Azure Fundamentals (AZ-900).
+* Apple: Apple Search Ads.
 
 ---
 
