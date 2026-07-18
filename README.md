@@ -14,9 +14,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat-square&logo=svelte&logoColor=white)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=white)
+![ScyllaDB](https://img.shields.io/badge/-ScyllaDB-000000?style=flat-square&logo=scylladb&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 ## This month (Private repository)
-<img style="width: 100%;" src="https://github.com/Maki-Grz/Maki-Grz/blob/main/images/sap.svg?raw=true" alt="SAP" />
+<img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
 ### Smartemate (2026)
 
@@ -30,7 +32,8 @@ This solution automates the verification of physical deliveries against digital 
 
 ## Start Here
 
-- 🦀 **[aura-sdk](https://github.com/Artificial-Intelligence-Lab-ARL/aura-sdk)** - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus.
+- 🦀 **[aura-sdk](https://github.com/Artificial-Intelligence-Lab-ARL/aura-sdk)** - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores.
+- 🦾 **[GenieX](https://github.com/Maki-Grz/GenieX)** - Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Run frontier LLMs and VLMs across GPU, NPU, and CPU.
 - 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
 - 🗂️ **[lumen-rag](https://github.com/Maki-Grz/lumen-rag)** - Modular, database-agnostic RAG framework for Rust supporting MongoDB and Qdrant.
 - ⚙️ **[gitbook2text](https://github.com/Maki-Grz/gitbook2text)** - CLI tool to download GitBook pages and convert them to markdown and text.
@@ -43,10 +46,10 @@ This solution automates the verification of physical deliveries against digital 
 - 🦀 **[aura-sdk](https://github.com/Artificial-Intelligence-Lab-ARL/aura-sdk)** (2026) - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores.
 - 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** (2026) - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
 - 🗂️ **[lumen-rag](https://github.com/Maki-Grz/lumen-rag)** (2025) - Modular, database-agnostic RAG framework for Rust supporting MongoDB and Qdrant.
-- 🦾 **[nexa-sdk](https://github.com/Maki-Grz/nexa-sdk)** (2026) - Forked from NexaAI/nexa-sdk. Run frontier LLMs and VLMs across GPU, NPU, and CPU.
+- 🦾 **[GenieX](https://github.com/Maki-Grz/GenieX)** (2026) - Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Run frontier LLMs and VLMs across GPU, NPU, and CPU.
 - 🧠 **[mlp-mini-burn](https://github.com/Maki-Grz/mlp-mini-burn)** (2025) - Rust-based Multi-Layer Perceptron (MLP) using the Burn deep learning framework.
-- 🔗 **[rust-client](https://github.com/Maki-Grz/rust-client)** (2026) - Forked from qdrant/rust-client. Rust client for Qdrant vector search engine.
-- 📖 **[sap-artificial-intelligence](https://github.com/Maki-Grz/sap-artificial-intelligence)** (2026) - Forked from SAP-docs/sap-artificial-intelligence. Markdown source for the SAP AI documentation.
+- 🔗 **[rust-client](https://github.com/Maki-Grz/rust-client)** (2026) - Forked from [qdrant/rust-client](https://github.com/qdrant/rust-client). Rust client for Qdrant vector search engine.
+- 📖 **[sap-artificial-intelligence](https://github.com/Maki-Grz/sap-artificial-intelligence)** (2026) - Forked from [SAP-docs/sap-artificial-intelligence](https://github.com/SAP-docs/sap-artificial-intelligence). Markdown source for the SAP AI documentation.
 
 ### CLI Utilities & Infrastructure Tools
 - ⚙️ **[gitbook2text](https://github.com/Maki-Grz/gitbook2text)** (2025) - CLI tool to download GitBook pages and convert them to markdown and text.
@@ -54,8 +57,8 @@ This solution automates the verification of physical deliveries against digital 
 - 🕹️ **[treasurehunt-plugin](https://github.com/Maki-Grz/treasurehunt-plugin)** (2025) - Custom Minecraft plugin for version 1.21.6 built for Floria server.
 
 ### Private & Active Projects
-- 🛡️ **ai-research-lab** (2026) - Website of [arl.maxgrz.fr/](https://arl.maxgrz.fr/).
-- ⚡ **ai-research-lab-rag** (2026) - Backend, mailer and RAG engine engineered in Rust for [arl.maxgrz.fr/](https://arl.maxgrz.fr/).
+- 🛡️ **ai-research-lab** (2026) - Website of [arl.maxgrz.fr](https://arl.maxgrz.fr).
+- ⚡ **ai-research-lab-rag** (2026) - Backend, mailer and RAG engine engineered in Rust for [arl.maxgrz.fr](https://arl.maxgrz.fr).
 - 🕸️ **hydramesh** (2026) - Next-generation, high-performance distributed VPN designed for enterprise-grade scalability.
 - 📁 **portfolio-v3** (2026) - Official portfolio ([maxgrz.fr](https://maxgrz.fr)) built with Astro to showcase work, skills, and professional experience.
 - 🪐 **netanime v3** (2025) - Legal anime streaming platform rewritten with a microservices architecture in Rust. [Netanime **V2**](https://netanime.fr)
@@ -104,5 +107,6 @@ This solution automates the verification of physical deliveries against digital 
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Maximilien_Grzeczka-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Maximilien-Grzeczka)
+[![LinkedIn](https://img.shields.io/badge/-Maximilien_Grzeczka-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilien-grzeczka)
 [![Portfolio](https://img.shields.io/badge/-maxgrz.fr-000000?style=flat-square&logo=astro&logoColor=white)](https://maxgrz.fr)
+[![GitHub](https://img.shields.io/badge/-Maki--Grz-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Maki-Grz)
