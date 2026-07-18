@@ -6,7 +6,7 @@
 
 # Hi, I'm Maximilien 👋
 
-📍 **Paris, France** | 🤖 **SAP BTP Solutions Architect @ VINCI Construction** | 🚀 **MSc in Artificial Intelligence**
+📍 **Paris, France** | 🤖 **SAP BTP Solutions Architect @ VINCI Construction** | 🚀 **MSc in Artificial Intelligence @ EPITECH Paris**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=white)
@@ -79,6 +79,14 @@ This solution automates the verification of physical deliveries against digital 
 
 ---
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Maximilien_Grzeczka-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilien-grzeczka)
+[![Portfolio](https://img.shields.io/badge/-maxgrz.fr-000000?style=flat-square&logo=astro&logoColor=white)](https://maxgrz.fr)
+[![GitHub](https://img.shields.io/badge/-Maki--Grz-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Maki-Grz)
+
+---
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Maki-Grz&hide_border=true)
@@ -95,18 +103,3 @@ This solution automates the verification of physical deliveries against digital 
 </p>
 
 <img src="https://wakatime.com/share/@Maki_Grz/b73106b9-9222-4fa9-88a5-4014b2c981dd.svg" style="width: 100%; filter: grayscale(100%) invert(var(--dark-mode-invert, 0%));" />
-
----
-
-## Certifications
-
-- **ScyllaDB** (5x Certified)
-- **Microsoft** Azure Fundamentals (AZ-900)
-- **The Linux Foundation** (LFC112, LFEL1002)
-- **Apple** Search Ads
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Maximilien_Grzeczka-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilien-grzeczka)
-[![Portfolio](https://img.shields.io/badge/-maxgrz.fr-000000?style=flat-square&logo=astro&logoColor=white)](https://maxgrz.fr)
-[![GitHub](https://img.shields.io/badge/-Maki--Grz-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Maki-Grz)
