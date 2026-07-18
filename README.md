@@ -12,9 +12,18 @@
 ![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-000000?style=flat-square&logo=microsoftazure&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat-square&logo=svelte&logoColor=white)
+![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=white)
+
+## This month (Private repository)
+<img style="width: 10%; filter: grayscale(100%); border-bottom: 2px solid #000000;" src="https://github.com/Maki-Grz/.github/blob/main/images/sap.svg" alt="SAP" />
+ **smartemate-frontend** & **smartemate-frontend** (2026) - This solution automates the verification of physical deliveries against digital orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
+
+![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/-SAP_CAP-000000?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/-SAP_BTP-000000?style=flat-square&logo=sap&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/-SAPUI5-000000?style=flat-square&logo=sap&logoColor=white)
+![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=white)
 
 ## Start Here
 
@@ -42,12 +51,11 @@
 - 🕹️ **[treasurehunt-plugin](https://github.com/Maki-Grz/treasurehunt-plugin)** (2025) - Custom Minecraft plugin for version 1.21.6 built for Floria server.
 
 ### Private & Active Projects
-- 🛡️ **ai-research-lab** (2026) - Dedicated to the end-to-end lifecycle of Artificial Intelligence.
-- ⚡ **ai-research-lab-rag** (2026) - High-performance RAG engine engineered in Rust.
+- 🛡️ **ai-research-lab** (2026) - Website of [arl.maxgrz.fr/](https://arl.maxgrz.fr/).
+- ⚡ **ai-research-lab-rag** (2026) - Backend, mailer and RAG engine engineered in Rust for [arl.maxgrz.fr/](https://arl.maxgrz.fr/).
 - 🕸️ **hydramesh** (2026) - Next-generation, high-performance distributed VPN designed for enterprise-grade scalability.
-- 📁 **portfolio-v3** (2026) - Official portfolio built with Astro to showcase work, skills, and professional experience.
-- 🪐 **netanime** (2025) - Legal anime streaming platform rewritten with a microservices architecture in Rust.
-- 💝 **projet-sushi** (2026) - Valentine's Day Gift built with Svelte, Lenis and GSAP.
+- 📁 **portfolio-v3** (2026) - Official portfolio ([maxgrz.fr](https://maxgrz.fr)) built with Astro to showcase work, skills, and professional experience.
+- 🪐 **netanime v3** (2025) - Legal anime streaming platform rewritten with a microservices architecture in Rust. [Netanime **V2**](https://netanime.fr)
 
 ---
 
