@@ -1,5 +1,7 @@
 # Maximilien Grzeczka
-**SAP BTP Architect | AI & Rust Engineer 🦀**
+**SAP BTP Solutions Architect @ VINCI Construction - Innovation & AI**
+
+<img style="width:100%;" src="https://media.licdn.com/dms/image/v2/D4E16AQGrFu563akjGg/profile-displaybackgroundimage-shrink_200_800/B4EZ8ohY1iHoAQ-/0/1783091269407?e=1785974400&v=beta&t=DQRhDAjHtkkFv5B0ZCXuPIlvGYjQByKzfnD4Skllnb8" />
 
 > [!IMPORTANT]  
 > **Current Mission:** I am currently architecting Cloud-Ready, Clean Core, and Generative AI solutions at **VINCI Construction SI** while completing a **Master of Science in Artificial Intelligence** at **EPITECH Paris**.
@@ -8,7 +10,7 @@
 
 ### Core Focus
 * Designing enterprise SAP BTP solutions, managing cloud infrastructure (HANA Cloud, ABAP Cloud), and orchestrating hybrid integrations with S/4HANA core systems.
-* Developing autonomous AI agents, custom skills, and RAG pipelines via SAP Joule and SAP AI Core to automate complex ERP workflows.
+* Developing autonomous AI agents and skills with SAP Joule and SAP AI Core to automate ERP workflows.
 * Engineering high-concurrency backend infrastructures, low-latency APIs, and local NPU/ARM64 machine learning inference engines in Rust.
 
 ---
