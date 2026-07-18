@@ -18,7 +18,9 @@
 ## This month (Private repository)
 <img style="width: 40px;" src="https://github.com/Maki-Grz/Maki-Grz/blob/main/images/sap.svg?raw=true" alt="SAP" />
 
- **smartemate-frontend** & **smartemate-frontend** (2026) - This solution automates the verification of physical deliveries against digital orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
+### Smartemate (2026)
+
+This solution automates the verification of physical deliveries against digital orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
 
 ![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=white)
 ![SAP CAP](https://img.shields.io/badge/-SAP_CAP-000000?style=flat-square&logo=sap&logoColor=white)
