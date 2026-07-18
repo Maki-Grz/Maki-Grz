@@ -6,7 +6,7 @@
 
 # Hi, I'm Maximilien 👋
 
-📍 **Paris, France** | 🤖 **SAP BTP Solution Architect @ VINCI Construction** | 🚀 **MSc in Artificial Intelligence**
+📍 **Paris, France** | 🤖 **SAP BTP Solutions Architect @ VINCI Construction** | 🚀 **MSc in Artificial Intelligence**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=white)
