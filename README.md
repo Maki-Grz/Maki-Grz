@@ -16,7 +16,7 @@
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=white)
 
 ## This month (Private repository)
-<img style="width: 40px;" src="https://github.com/Maki-Grz/Maki-Grz/blob/main/images/sap.svg?raw=true" alt="SAP" />
+<img style="width: 100%;" src="https://github.com/Maki-Grz/Maki-Grz/blob/main/images/sap.svg?raw=true" alt="SAP" />
 
 ### Smartemate (2026)
 
