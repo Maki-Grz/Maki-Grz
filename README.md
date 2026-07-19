@@ -61,7 +61,7 @@ This solution automates the verification of physical deliveries against digital 
 - ⚡ **ai-research-lab-rag** (2026) - Backend, mailer and RAG engine engineered in Rust for [arl.maxgrz.fr](https://arl.maxgrz.fr).
 - 🕸️ **hydramesh** (2026) - Next-generation, high-performance distributed VPN designed for enterprise-grade scalability.
 - 📁 **portfolio-v3** (2026) - Official portfolio ([maxgrz.fr](https://maxgrz.fr)) built with Astro to showcase work, skills, and professional experience.
-- 🪐 **netanime v3** (2025) - Legal anime streaming platform rewritten with a microservices architecture in Rust. [Netanime **V2**](https://netanime.fr)
+- 🪐 **netanime v3** (2025) - Anime streaming platform rewritten with a microservices architecture in Rust. [Netanime **V2**](https://netanime.fr)
 
 ---
 
