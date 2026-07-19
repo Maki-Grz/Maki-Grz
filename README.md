@@ -16,19 +16,26 @@
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=white)
 ![ScyllaDB](https://img.shields.io/badge/-ScyllaDB-000000?style=flat-square&logo=scylladb&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Snapdragon](https://img.shields.io/badge/-Snapdragon-000000?style=flat-square&logo=snapdragon&logoColor=white)
+![Qualcomm](https://img.shields.io/badge/-Qualcomm-000000?style=flat-square&logo=qualcomm&logoColor=white)
+![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=white)
 
 ## This month (Private repository)
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
 ### Smartemate (2026)
 
-This solution automates the verification of physical deliveries against digital orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
+This solution automates the verification of physical deliveries against Purchase orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR 4, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
 
-![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=white)
-![SAP CAP](https://img.shields.io/badge/-SAP_CAP-000000?style=flat-square&logo=sap&logoColor=white)
-![SAP BTP](https://img.shields.io/badge/-SAP_BTP-000000?style=flat-square&logo=sap&logoColor=white)
-![SAPUI5](https://img.shields.io/badge/-SAPUI5-000000?style=flat-square&logo=sap&logoColor=white)
-![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=white)
+![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![SAP CAP](https://img.shields.io/badge/-SAP_CAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E)
+![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat-square&logo=svelte&logoColor=#FF3E00)
+![UI5 Web Components](https://img.shields.io/badge/-UI5_Web_Components-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![SAP BTP](https://img.shields.io/badge/-SAP_BTP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
+![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=#FA520F)
 
 ## Start Here
 
