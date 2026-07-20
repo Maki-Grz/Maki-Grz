@@ -37,10 +37,19 @@ This solution automates the verification of physical deliveries against Purchase
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=#FA520F)
 
+### GenieX (Qualcomm)
+
+Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Ever since I got a machine with a Snapdragon X processor, my goal has been to run LLM models natively on it using the NPU. That was the case with Nexa AI, now called GenieX. I wanted to chip in on the project by adding a Rust binding (a language I like). Check the forked reposiroty : [Maki-Grz/GenieX](https://github.com/Maki-Grz/GenieX)
+
+![Snapdragon](https://img.shields.io/badge/-Snapdragon-000000?style=flat-square&logo=snapdragon&logoColor=#C33139)
+![Qualcomm](https://img.shields.io/badge/-Qualcomm-000000?style=flat-square&logo=qualcomm&logoColor=#3253DC)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=#000000)
+![ONNX](https://img.shields.io/badge/-ONNX-000000?style=flat-square&logo=onnx&logoColor=#005CED)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=#FFD21E)
+
 ## Start Here
 
 - 🦀 **[aura-sdk](https://github.com/Artificial-Intelligence-Lab-ARL/aura-sdk)** - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores.
-- 🦾 **[GenieX](https://github.com/Maki-Grz/GenieX)** - Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Run frontier LLMs and VLMs across GPU, NPU, and CPU.
 - 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
 - 🗂️ **[lumen-rag](https://github.com/Maki-Grz/lumen-rag)** - Modular, database-agnostic RAG framework for Rust supporting MongoDB and Qdrant.
 - ⚙️ **[gitbook2text](https://github.com/Maki-Grz/gitbook2text)** - CLI tool to download GitBook pages and convert them to markdown and text.
