@@ -24,7 +24,7 @@
 ## This month (Private repository)
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
-### Smartmate (2026)
+### Smartmate
 
 This solution automates the verification of physical deliveries against Purchase orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR 4, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
 
