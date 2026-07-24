@@ -21,7 +21,7 @@
 ![Qualcomm](https://img.shields.io/badge/-Qualcomm-000000?style=flat-square&logo=qualcomm&logoColor=white)
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=white)
 
-## This month (Private repository)
+## This month
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
 ### Smartmate
