@@ -6,7 +6,7 @@
 
 # Hi, I'm Maximilien 👋
 
-📍 **Paris, France** | 🤖 **SAP BTP Solutions Architect @ [VINCI Construction](https://vinci-construction.com)** | 🚀 **MSc in Artificial Intelligence @ [Epitech](https://www.epitech.eu/)**
+📍 **Paris, France** | 🤖 **SAP Business AI & BTP Solutions Architect @ [VINCI Construction](https://vinci-construction.com)** | 🚀 **MSc in Artificial Intelligence @ [Epitech](https://www.epitech.eu/)**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=white)
@@ -37,9 +37,9 @@ This solution automates the verification of physical deliveries against Purchase
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=#FA520F)
 
-### GenieX (Qualcomm)
+### GenieX-rs (Qualcomm)
 
-Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Ever since I got a machine with a Snapdragon X processor, my goal has been to run LLM models natively on it using the NPU. That was the case with Nexa AI, now called GenieX. I wanted to conribute on the project by adding a Rust binding (a language I like). Check the forked reposiroty : [Maki-Grz/GenieX](https://github.com/Maki-Grz/GenieX)
+Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Ever since I got a machine with a Snapdragon X processor, my goal has been to run LLM models natively on it using the NPU. That was the case with Nexa AI, now called GenieX. I wanted to conribute on the project by adding a Rust binding (a language I like). Check the forked reposiroty : [Maki-Grz/GenieX-rs](https://github.com/Maki-Grz/GenieX-rs)
 
 ![Snapdragon](https://img.shields.io/badge/-Snapdragon-000000?style=flat-square&logo=snapdragon&logoColor=#C33139)
 ![Qualcomm](https://img.shields.io/badge/-Qualcomm-000000?style=flat-square&logo=qualcomm&logoColor=#3253DC)
