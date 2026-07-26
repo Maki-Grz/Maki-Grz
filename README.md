@@ -54,7 +54,8 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 
 ## Start Here
 
-- 🦀 **[aura-sdk](https://github.com/Artificial-Intelligence-Lab-ARL/aura-sdk)** - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores.
+- 🦀 ~~**aura-sdk** - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores.~~  
+*Initially a substitute for Nexa AI SDK that became GenieX (geniex-rs).*
 - 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
 - 🗂️ **[lumen-rag](https://github.com/Maki-Grz/lumen-rag)** - Modular, database-agnostic RAG framework for Rust supporting MongoDB and Qdrant.
 - ⚙️ **[gitbook2text](https://github.com/Maki-Grz/gitbook2text)** - CLI tool to download GitBook pages and convert them to markdown and text.
@@ -64,7 +65,6 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 ## Active Repositories
 
 ### Artificial Intelligence & Local Inference
-- 🦀 **[aura-sdk](https://github.com/Artificial-Intelligence-Lab-ARL/aura-sdk)** (2026) - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores.
 - 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** (2026) - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
 - 🗂️ **[lumen-rag](https://github.com/Maki-Grz/lumen-rag)** (2025) - Modular, database-agnostic RAG framework for Rust supporting MongoDB and Qdrant.
 - 🦾 **[GenieX](https://github.com/Maki-Grz/GenieX)** (2026) - Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Run frontier LLMs and VLMs across GPU, NPU, and CPU.
@@ -78,8 +78,6 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 - 🕹️ **[treasurehunt-plugin](https://github.com/Maki-Grz/treasurehunt-plugin)** (2025) - Custom Minecraft plugin for version 1.21.6 built for Floria server.
 
 ### Private & Active Projects
-- 🛡️ **ai-research-lab** (2026) - Website of [arl.maxgrz.fr](https://arl.maxgrz.fr).
-- ⚡ **ai-research-lab-rag** (2026) - Backend, mailer and RAG engine engineered in Rust for [arl.maxgrz.fr](https://arl.maxgrz.fr).
 - 🕸️ **hydramesh** (2026) - Next-generation, high-performance distributed VPN designed for enterprise-grade scalability.
 - 📁 **portfolio-v3** (2026) - Official portfolio ([maxgrz.fr](https://maxgrz.fr)) built with Astro to showcase work, skills, and professional experience.
 - 🪐 **netanime v3** (2025) - Anime streaming platform rewritten with a microservices architecture in Rust. [Netanime **V2**](https://netanime.fr)
