@@ -52,17 +52,9 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 ![ONNX](https://img.shields.io/badge/-ONNX-000000?style=flat-square&logo=onnx&logoColor=#005CED)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=#FFD21E)
 
-## Start Here
-
-- 🦀 ~~**aura-sdk** - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores.~~  
-*Initially a substitute for Nexa AI SDK that became GenieX (geniex-rs).*
-- 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
-- 🗂️ **[lumen-rag](https://github.com/Maki-Grz/lumen-rag)** - Modular, database-agnostic RAG framework for Rust supporting MongoDB and Qdrant.
-- ⚙️ **[gitbook2text](https://github.com/Maki-Grz/gitbook2text)** - CLI tool to download GitBook pages and convert them to markdown and text.
-
 ---
 
-## Active Repositories
+## Repositories
 
 ### Artificial Intelligence & Local Inference
 - 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** (2026) - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
@@ -74,10 +66,8 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 
 ### CLI Utilities & Infrastructure Tools
 - ⚙️ **[gitbook2text](https://github.com/Maki-Grz/gitbook2text)** (2025) - CLI tool to download GitBook pages and convert them to markdown and text.
-- 🗺️ **[dungeon-portfolio](https://github.com/Maki-Grz/dungeon-portfolio)** (2025) - Interactive gamified portfolio inspired by Minecraft Dungeons map system.
-- 🕹️ **[treasurehunt-plugin](https://github.com/Maki-Grz/treasurehunt-plugin)** (2025) - Custom Minecraft plugin for version 1.21.6 built for Floria server.
 
-### Private & Active Projects
+### Private Projects
 - 🕸️ **hydramesh** (2026) - Next-generation, high-performance distributed VPN designed for enterprise-grade scalability.
 - 📁 **portfolio-v3** (2026) - Official portfolio ([maxgrz.fr](https://maxgrz.fr)) built with Astro to showcase work, skills, and professional experience.
 - 🪐 **netanime v3** (2025) - Anime streaming platform rewritten with a microservices architecture in Rust. [Netanime **V2**](https://netanime.fr)
@@ -86,6 +76,8 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 
 ## Archived & Legacy Projects
 
+- 🦀 **aura-sdk** (2026) - Rust bindings and CLI runner for Qualcomm Genie/QNN on Snapdragon X Plus 8 Cores. Initially a substitute for Nexa AI SDK that became GenieX (geniex-rs).
+- 🕹️ **[treasurehunt-plugin](https://github.com/Maki-Grz/treasurehunt-plugin)** (2025) - Custom Minecraft plugin for version 1.21.6 built for Floria server.
 - 🔌 **[dungeon-portfolio-api](https://github.com/Maki-Grz/dungeon-portfolio-api)** (2024) - High-performance REST API built with Actix-web to serve portfolio data.
 - ⚙️ **portfolio-azure-function** (2024) - Serverless backend logic for portfolio management via Azure Functions.
 - 🎨 **star-wars-pixel** (2023) - Interactive Star Wars themed pixel art project using Canvas.
