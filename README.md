@@ -37,9 +37,14 @@ This solution automates the verification of physical deliveries against Purchase
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=#FA520F)
 
-### GenieX (Qualcomm)
+### 🦀 geniex-rs (Qualcomm GenieX Rust Bindings)
 
-Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Ever since I got a machine with a Snapdragon X processor, my goal has been to run LLM models natively on it using the NPU. That was the case with Nexa AI, now called GenieX. I wanted to conribute on the project by adding a Rust binding (a language I like). Check the forked reposiroty : [Maki-Grz/GenieX](https://github.com/Maki-Grz/GenieX)
+Ever since I got a machine with a Snapdragon X processor, my goal has been to run frontier LLM and VLM models natively using the NPU. This led me to Qualcomm's GenieX (formerly Nexa AI). 
+
+Because I love Rust, I decided to contribute by building the complete Rust bindings for their C API. Following discussions with the upstream maintainers, I extracted this work from my initial fork into a dedicated, standalone repository. The project is now fully documented, supports automated Windows ARM64 dynamic linking out of the box, and is officially published on crates.io.
+
+* 📦 **Repository:** [Maki-Grz/geniex-rs](https://github.com/Maki-Grz/geniex-rs)
+* 🦀 **Crates.io:** [geniex-rs](https://crates.io/crates/geniex-rs)
 
 ![Snapdragon](https://img.shields.io/badge/-Snapdragon-000000?style=flat-square&logo=snapdragon&logoColor=#C33139)
 ![Qualcomm](https://img.shields.io/badge/-Qualcomm-000000?style=flat-square&logo=qualcomm&logoColor=#3253DC)
