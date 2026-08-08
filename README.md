@@ -1,9 +1,3 @@
-<div align="center">
-  <img style="width: 100%; filter: grayscale(100%); border-bottom: 2px solid #000000;" src="https://media.licdn.com/dms/image/v2/D4E16AQGrFu563akjGg/profile-displaybackgroundimage-shrink_200_800/B4EZ8ohY1iHoAQ-/0/1783091269407?e=1785974400&v=beta&t=DQRhDAjHtkkFv5B0ZCXuPIlvGYjQByKzfnD4Skllnb8" alt="Banner" />
-</div>
-
-<br />
-
 # Hi, I'm Maximilien 👋
 
 📍 **Paris, France** | 🤖 **SAP Business AI & BTP Solutions Architect @ [VINCI Construction](https://vinci-construction.com)** | 🚀 **MSc in Artificial Intelligence @ [Epitech](https://www.epitech.eu/)**
