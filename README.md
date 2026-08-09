@@ -39,8 +39,9 @@ Ever since I got a machine with a Snapdragon X processor, my goal has been to ru
 
 Because I love Rust, I decided to contribute by building the complete Rust bindings for their C API. Following discussions with the upstream maintainers, I extracted this work from my initial fork into a dedicated, standalone repository. The project supports automated Windows ARM64 dynamic linking out of the box, and is published on crates.io.
 
-* 📦 **Repository:** [Maki-Grz/geniex-rs](https://github.com/Maki-Grz/geniex-rs)
-* 🦀 **Crates.io:** [geniex-rs](https://crates.io/crates/geniex-rs)
+* 📦 **Repository:** [github.com/geniex-rs](https://github.com/Maki-Grz/geniex-rs)
+* 🦀 **Crates.io:** [crates.io/geniex-rs](https://crates.io/crates/geniex-rs)
+* 🔥 **Official Website:** [aihub.qualcomm.com/geniex](https://aihub.qualcomm.com/geniex)
 
 ![Snapdragon](https://img.shields.io/badge/-Snapdragon-000000?style=flat-square&logo=snapdragon&logoColor=#C33139)
 ![Qualcomm](https://img.shields.io/badge/-Qualcomm-000000?style=flat-square&logo=qualcomm&logoColor=#3253DC)
