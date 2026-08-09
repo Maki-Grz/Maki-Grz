@@ -15,7 +15,7 @@
 ![Qualcomm](https://img.shields.io/badge/-Qualcomm-000000?style=flat-square&logo=qualcomm&logoColor=white)
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=white)
 
-## This month
+## Featured
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
 ### 🟦 Smartmate
@@ -30,6 +30,8 @@ This solution automates the verification of physical deliveries against Purchase
 ![SAP BTP](https://img.shields.io/badge/-SAP_BTP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=#FA520F)
+
+<img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/geniex-rs.svg" alt="SAP" />
 
 ### 🦀 geniex-rs (Qualcomm GenieX Rust Bindings)
 
