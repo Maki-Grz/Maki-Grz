@@ -18,7 +18,7 @@
 ## Featured
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
-### 🟦 Smartmate (Private)
+### 🟦 Smartmate (SAP CAP - Private)
 
 This solution automates the verification of physical deliveries against Purchase orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR 4, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
 
@@ -48,6 +48,22 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=#000000)
 ![ONNX](https://img.shields.io/badge/-ONNX-000000?style=flat-square&logo=onnx&logoColor=#005CED)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=#FFD21E)
+
+### 🟦 Patrimoine (SAP CAP)
+
+Patrimoine is an open-source, self-hostable, and sovereign personal wealth management platform. Built natively on the SAP Cloud Application Programming Model (CAP) and powered by Svelte 5 and SAP UI5 Web Components, it provides an elegant, security-first dashboard to map, automate, and simulate your personal asset allocations.
+
+Designed specifically for European citizens under French financial schemas, the application allows users to orchestrate incoming revenue splits into various bank accounts, savings books (Livret A, LDDS), company stock plans (PEG/PER), and investments (PEA, Assurance Vie).
+
+* 📦 **Repository:** [github.com/patrimoine](https://github.com/Maki-Grz/patrimoine)
+
+![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![SAP CAP](https://img.shields.io/badge/-SAP_CAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E)
+![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat-square&logo=svelte&logoColor=#FF3E00)
+![UI5 Web Components](https://img.shields.io/badge/-UI5_Web_Components-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![SAP BTP](https://img.shields.io/badge/-SAP_BTP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 
 ---
 
