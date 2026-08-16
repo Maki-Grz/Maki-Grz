@@ -38,7 +38,7 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 
 ### 🤖 Cline (SAP AI Core Provider Enhancements)
 
-Using Cline daily in my workflow—especially with SAP pushing for its adoption, I quickly ran into limitations: the existing SAP AI Core integration was incomplete and buggy, particularly around orchestration workflows and model allowlist handling.
+Using Cline daily in my workflow, especially with SAP pushing for its adoption, I quickly ran into limitations: the existing SAP AI Core integration was incomplete and buggy, particularly around orchestration workflows and model allowlist handling.
 
 To make it truly production-ready for daily use, I created a dedicated fork to fix these issues and enhance the provider. This branch resolves critical bugs, fully supports SAP's orchestration layer, and properly handles model allowlisting within the VS Code extension.
 
