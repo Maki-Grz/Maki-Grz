@@ -36,6 +36,21 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
+### 🤖 Cline (SAP AI Core Provider Enhancements)
+
+Using Cline daily in my workflow—especially with SAP pushing for its adoption, I quickly ran into limitations: the existing SAP AI Core integration was incomplete and buggy, particularly around orchestration workflows and model allowlist handling.
+
+To make it truly production-ready for daily use, I created a dedicated fork to fix these issues and enhance the provider. This branch resolves critical bugs, fully supports SAP's orchestration layer, and properly handles model allowlisting within the VS Code extension.
+
+* 📦 **My Fork:** [github.com/Maki-Grz/cline](https://github.com/Maki-Grz/cline/tree/feat/sap-ai-core)
+* 🚀 **Upstream Repository:** [github.com/cline/cline](https://github.com/cline/cline)
+* 💼 **Official SAP AI Core:** [sap.com/products/artificial-intelligence](https://www.sap.com/products/artificial-intelligence.html)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![SAP](https://img.shields.io/badge/-SAP_AI_Core-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![AI Orchestration](https://img.shields.io/badge/-AI_Orchestration-412991?style=flat-square&logo=openai&logoColor=white)
+
 ### 🟦 Smartmate (SAP CAP - Private)
 
 This solution automates the verification of physical deliveries against Purchase orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR 4, the system extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results for automated compliance tracking.
