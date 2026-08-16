@@ -85,6 +85,7 @@ Designed specifically for European citizens under French financial schemas, the 
 ## Repositories
 
 ### Artificial Intelligence & Local Inference
+- 🤖 **[Cline](https://github.com/Maki-Grz/cline)** (2026) - Forked from [cline/cline](https://github.com/cline/cline). Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - 👁️ **[RustSight](https://github.com/Maki-Grz/RustSight)** (2026) - High-performance face detection tool using SCRFD, ONNX Runtime, and OpenCV for Windows 11 ARM64.
 - 🗂️ **[lumen-rag](https://github.com/Maki-Grz/lumen-rag)** (2025) - Modular, database-agnostic RAG framework for Rust supporting MongoDB and Qdrant.
 - 🦾 **[GenieX](https://github.com/Maki-Grz/GenieX)** (2026) - Forked from [qualcomm/GenieX](https://github.com/qualcomm/GenieX). Run frontier LLMs and VLMs across GPU, NPU, and CPU.
