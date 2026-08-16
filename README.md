@@ -46,10 +46,10 @@ To make it truly production-ready for daily use, I created a dedicated fork to f
 * 🚀 **Upstream Repository:** [github.com/cline/cline](https://github.com/cline/cline)
 * 💼 **Official SAP AI Core:** [sap.com/products/artificial-intelligence](https://www.sap.com/products/artificial-intelligence.html)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![SAP](https://img.shields.io/badge/-SAP_AI_Core-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![AI Orchestration](https://img.shields.io/badge/-AI_Orchestration-412991?style=flat-square&logo=openai&logoColor=white)
+![Cline](https://img.shields.io/badge/-Cline-000000?style=flat-square&logo=cline&logoColor=#18181B)
+![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=#3178C6)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=#000000)
 
 ### 🟦 Smartmate (SAP CAP - Private)
 
