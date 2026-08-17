@@ -80,6 +80,11 @@ Designed specifically for European citizens under French financial schemas, the 
 ![SAP BTP](https://img.shields.io/badge/-SAP_BTP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 
+### 🟦 SAP Docs - SAP Artificial Intelligence
+A small contribution, pending : [SAP-docs/sap-artificial-intelligence](https://github.com/SAP-docs/sap-artificial-intelligence/pull/80)
+
+![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+
 ---
 
 ## Repositories
