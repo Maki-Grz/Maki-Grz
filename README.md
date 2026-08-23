@@ -64,7 +64,7 @@ This solution automates the verification of physical deliveries against Purchase
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=#FA520F)
 
-### 🟦 Patrimoine (SAP CAP) - Alpha.1
+### 🟦 Patrimoine (SAP CAP) - Alpha.2
 
 Patrimoine is an open-source, self-hostable, and sovereign personal wealth management platform. Built natively on the SAP Cloud Application Programming Model (CAP) and powered by Svelte 5 and SAP UI5 Web Components, it provides an elegant, security-first dashboard to map, automate, and simulate your personal asset allocations.
 
