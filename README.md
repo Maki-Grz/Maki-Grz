@@ -36,6 +36,21 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
+### ⚡ sap-cds-zed (SAP CAP CDS for Zed Editor)
+
+Bringing high-performance developer tooling to SAP development. This extension provides first-class support for SAP Cloud Application Programming Model (CAP) CDS files directly within the Zed editor. 
+
+It leverages `tree-sitter-cds` for fast and accurate syntax highlighting alongside official `@sap/cds-lsp` integration to deliver diagnostics, completions, and Language Server capabilities natively inside Zed.
+
+* 📦 **Repository:** [github.com/Maki-Grz/sap-cds-zed](https://github.com/Maki-Grz/sap-cds-zed)
+* ⚡ **Zed Extension:** [zed.dev/extensions](https://zed.dev)
+
+![SAP](https://img.shields.io/badge/-SAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![SAP CAP](https://img.shields.io/badge/-SAP_CAP-000000?style=flat-square&logo=sap&logoColor=#0FAAFF)
+![Zed](https://img.shields.io/badge/-Zed-000000?style=flat-square&logo=zedindustries&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=#000000)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E)
+
 ### 🤖 Cline (SAP AI Core Provider Enhancements)
 
 Using Cline daily in my workflow, especially with SAP pushing for its adoption, I quickly ran into limitations: the existing SAP AI Core integration was incomplete and buggy, particularly around orchestration workflows and model allowlist handling.
@@ -88,6 +103,9 @@ A small contribution, pending : [SAP-docs/sap-artificial-intelligence](https://g
 ---
 
 ## Repositories
+
+### SAP & Developer Tooling
+- ⚡ **[sap-cds-zed](https://github.com/Maki-Grz/sap-cds-zed)** (2026) - SAP CAP CDS language support for the Zed editor via tree-sitter-cds and @sap/cds-lsp.
 
 ### Artificial Intelligence & Local Inference
 - 🤖 **[Cline](https://github.com/Maki-Grz/cline)** (2026) - Forked from [cline/cline](https://github.com/cline/cline). Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
