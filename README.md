@@ -57,7 +57,7 @@ Using Cline daily in my enterprise workflow, I quickly ran into limitations: the
 
 To make it truly production-ready, I built Zcline, a dedicated enterprise fork of Cline for VS Code. It resolves critical provider bugs, fully supports SAP AI Core's orchestration layer, embeds official SAP MCP servers (CAP, Fiori, UI5, ABAP), and streamlines BTP onboarding with seamless Service Key integration.
 
-* 📦 **My Fork:** [github.com/Maki-Grz/cline](https://github.com/Maki-Grz/zcline)
+* 📦 **My Fork:** [github.com/Maki-Grz/zcline](https://github.com/Maki-Grz/zcline)
 * 🚀 **Upstream Repository:** [github.com/cline/cline](https://github.com/cline/cline)
 * 💼 **Official SAP AI Core:** [sap.com/products/artificial-intelligence](https://www.sap.com/products/artificial-intelligence.html)
 
