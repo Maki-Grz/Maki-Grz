@@ -51,11 +51,11 @@ It leverages `tree-sitter-cds` for fast and accurate syntax highlighting alongsi
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=#000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E)
 
-### 🤖 Cline (SAP AI Core Provider Enhancements)
+🤖 Zcline (Enterprise AI Assistant for SAP BTP & SAP AI Core)
 
-Using Cline daily in my workflow, especially with SAP pushing for its adoption, I quickly ran into limitations: the existing SAP AI Core integration was incomplete, particularly around orchestration workflows and model allowlist handling.
+Using Cline daily in my enterprise workflow, I quickly ran into limitations: the existing SAP AI Core integration was incomplete around orchestration workflows, and standard coding assistants lacked native context for SAP developer toolchains.
 
-To make it truly production-ready for daily use, I created a dedicated fork to fix these issues and enhance the provider. This branch resolves critical bugs, fully supports SAP's orchestration layer, and properly handles model allowlisting within the VS Code extension.
+To make it truly production-ready, I built Zcline, a dedicated enterprise fork of Cline for VS Code. It resolves critical provider bugs, fully supports SAP AI Core's orchestration layer, embeds official SAP MCP servers (CAP, Fiori, UI5, ABAP), and streamlines BTP onboarding with seamless Service Key integration.
 
 * 📦 **My Fork:** [github.com/Maki-Grz/cline](https://github.com/Maki-Grz/cline)
 * 🚀 **Upstream Repository:** [github.com/cline/cline](https://github.com/cline/cline)
