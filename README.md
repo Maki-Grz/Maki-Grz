@@ -51,7 +51,7 @@ It leverages `tree-sitter-cds` for fast and accurate syntax highlighting alongsi
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=#000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E)
 
-🤖 Zcline (Enterprise AI Assistant for SAP BTP & SAP AI Core)
+### 🤖 Zcline (Enterprise AI Assistant for SAP BTP & SAP AI Core)
 
 Using Cline daily in my enterprise workflow, I quickly ran into limitations: the existing SAP AI Core integration was incomplete around orchestration workflows, and standard coding assistants lacked native context for SAP developer toolchains.
 
