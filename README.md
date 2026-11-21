@@ -36,7 +36,7 @@ Because I love Rust, I decided to contribute by building the complete Rust bindi
 
 <img style="width: 100%;" src="https://raw.githubusercontent.com/Maki-Grz/Maki-Grz/main/images/sap.svg" alt="SAP" />
 
-### ⚡ sap-cds-zed (SAP CAP CDS for Zed Editor)
+### ⚡ sap-cds-zed (SAP CAP CDS for Zed Editor) - PoC
 
 Bringing high-performance developer tooling to SAP development. This extension provides first-class support for SAP Cloud Application Programming Model (CAP) CDS files directly within the Zed editor.
 
@@ -51,7 +51,7 @@ It leverages `tree-sitter-cds` for fast and accurate syntax highlighting alongsi
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=#000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=#5FA04E)
 
-### 🤖 Zcline (Enterprise AI Assistant for SAP BTP & SAP AI Core)
+### 🤖 Zcline (Enterprise AI Assistant for SAP BTP & SAP AI Core) - PoC
 
 Using Cline daily in my enterprise workflow, I quickly ran into limitations: the existing SAP AI Core integration was incomplete around orchestration workflows, and standard coding assistants lacked native context for SAP developer toolchains.
 
@@ -66,7 +66,7 @@ To make it truly production-ready, I built Zcline, a dedicated enterprise fork o
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=#3178C6)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=#000000)
 
-### 🟦 Smartmate (AI Procurement Copilot - Private)
+### 🟦 Smartmate (AI Procurement Copilot - Private) - PoC
 
 This solution automates the verification of physical deliveries against Purchase Orders. Users upload paper delivery receipts from SAP/Ariba purchase orders to the platform. Using Mistral OCR, the backend extracts the receipt data, compares it directly with the original SAP PO, generates a discrepancy score, and securely stores the results on SAP BTP / HANA for automated compliance tracking.
 
@@ -82,7 +82,7 @@ This solution automates the verification of physical deliveries against Purchase
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud_Foundry-000000?style=flat-square&logo=cloudfoundry&logoColor=#0C9ED5)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistralai&logoColor=#FA520F)
 
-### 🟦 Patrimoine (SAP CAP)
+### 🟦 Patrimoine (SAP CAP) - PoC
 
 Patrimoine is an open-source, self-hostable, and sovereign personal wealth management platform. Built natively on the SAP Cloud Application Programming Model (CAP) and powered by Svelte 5 and SAP UI5 Web Components, it provides an elegant, security-first dashboard to map, automate, and simulate personal asset allocations.
 
